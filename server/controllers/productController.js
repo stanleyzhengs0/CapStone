@@ -11,7 +11,8 @@ export const getProducts = async (req, res) => {
 
         res.status(200).json(products)
     }catch(error){
-        console.error("Error fetching products: ", error)
+
+        return res.status(500).json({message: "Error fetching products: ", Error: error})
     }
 }
 
@@ -37,7 +38,7 @@ export const getPaginatedProducts = async (req, res) => {
         res.status(200).json(products)
         
     }catch(error){
-        console.error("Error fetching PAGINATED products: ", error)
+        return res.status(500).json({message: "Error fetching PAGINATED products: ", Error: error})
     }
 }
 
@@ -54,6 +55,6 @@ export const getProductDetail = async (req, res) => {
         res.status(200).json(product)
         
     }catch(error){
-        console.error("Error fetching product details: ", error)
+        return res.status(500).json({message: "Error fetching product details: ", Error: error})
     }
 }
