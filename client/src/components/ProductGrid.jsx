@@ -10,7 +10,7 @@ export default function ProductGrid() {
         const pages = [1, 2, 3];
         const responses = await Promise.all(
           pages.map((p) =>
-            fetch(`http://localhost:3000/api/v1/products/page/${p}`)
+            fetch(`http://localhost:3000/api/v1/products/page?page=${p}`)
           )
         );
 

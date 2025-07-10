@@ -54,5 +54,33 @@
 
   /* …or replace the default sans stack everywhere: */
   /* --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif; */
-
 }
+
+@layer utilities {
+  .glass {
+    position: relative;
+    background: rgba(255 255 255 / 0.15);
+    backdrop-filter: blur(2px) saturate(180%);
+    border: 1px solid rgba(255 255 255 / 0.8);
+    border-radius: 2rem;
+    box-shadow:
+      0 8px 32px rgba(31, 38, 135, 0.20),
+      inset 0 4px 20px rgba(255 255 255 / 0.30);
+  }
+
+  .glass::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255 255 255 / 0.10);
+    border-radius: 2rem;
+    backdrop-filter: blur(1px);
+    box-shadow:
+      inset -10px -8px 0 -11px #fff,
+      inset 0 -9px 0 -8px #fff;
+    opacity: 0.6;
+    z-index: -1;
+    filter: blur(1px) drop-shadow(10px 4px 6px #000) brightness(115%);
+  }
+}
+
