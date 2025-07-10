@@ -1,1 +1,58 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Outfit-ExtraBold";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url("../font/Outfit-ExtraBold.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url("../font/Outfit-Regular.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Outfit-Light";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url("../font/Outfit-ExtraLight.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Outfit-Medium";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url("../font/Outfit-Medium.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Outfit-SemiBold";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url("../font/Outfit-SemiBold.ttf");
+  font-display: swap;
+}
+
+
+
+@theme {
+  /* If you just want <div class="font-display"> */
+  --font-display-header: "Outfit-ExtraBold", sans-serif, system-ui, ui-sans-serif;
+  --font-display-text: "Outfit", sans-serif, system-ui, ui-sans-serif;
+  --font-display-light: "Outfit-Light", sans-serif, system-ui, ui-sans-serif;
+  --font-display-medium: "Outfit-Medium", sans-serif, system-ui, ui-sans-serif;
+  --font-display-semi: "Outfit-SemiBold", sans-serif, system-ui, ui-sans-serif;
+
+  --color-brand: #000000;
+
+  /* …or replace the default sans stack everywhere: */
+  /* --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif; */
+
+}
