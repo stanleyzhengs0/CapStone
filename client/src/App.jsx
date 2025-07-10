@@ -12,7 +12,6 @@ function App() {
       <Header />
       <Hero />
       <ProductGrid />
-      {/*<Features />*/}
       <Quote /> 
       <Footer />
     </div>
