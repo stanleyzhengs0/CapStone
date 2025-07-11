@@ -63,7 +63,7 @@ export default function Header() {
                   {categories.map((c) => (
                     <li key={c}>
                       <Link
-                        to={`/category/${c.toLowerCase().replace(/\\s+/g, "-")}`}
+                        to={`/products/category/${c}`}
                         className="block px-5 py-2 text-sm text-white/80 hover:bg-white/10 hover:text-white transition-colors"
                       >
                         {c}
@@ -75,30 +75,30 @@ export default function Header() {
             </div>
 
             {/* placeholder links */}
-            <a
-              href="#"
+            <Link
+              to="/products"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 1
-            </a>
-            <a
-              href="#"
+              All Products
+            </Link>
+            <Link
+              to="/products/category/TVs"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 2
-            </a>
-            <a
-              href="#"
+              TV's
+            </Link>
+            <Link
+              to="/products/category/Mobile Phones"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 3
-            </a>
-            <a
-              href="#"
+              Mobile Phones
+            </Link>
+            <Link
+              to="/products/category/Computer Accessories"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 4
-            </a>
+              Computer Accessories
+            </Link>
           </nav>
 
           <div className="flex items-center space-x-4">
@@ -108,9 +108,9 @@ export default function Header() {
 
             <Link to="/cart" className="relative p-2">
               <ShoppingCart className="w-5 h-5 text-white" />
-              <span className="absolute -top-1 -right-1 bg-black text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+              {/* <span className="absolute -top-1 -right-1 bg-black text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
                 2
-              </span>
+              </span> */}
             </Link>
           </div>
         </div>

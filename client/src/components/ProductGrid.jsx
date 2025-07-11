@@ -2,16 +2,16 @@
 import React, { useEffect, useState } from "react";
 import ProductCard from "./ProductCard";
 
-export default function ProductGrid() {
+export default function ProductGrid({limit}) {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
     (async () => {
       try {
-        const pages = [1, 2, 3];
+        const pages = [1, 2];
         const responses = await Promise.all(
           pages.map((p) =>
-            fetch(`http://localhost:3000/api/v1/products/page?page=${p}`)
+            fetch(`http://localhost:3000/api/v1/products/page?page=${p}&limit=${limit}`)
           )
         );
 

@@ -1,19 +1,21 @@
 import React, { useEffect, useState } from 'react';
 import ProductListCard from '../components/ProductListCard';
 import Header from '../components/Header';
+import { useParams } from 'react-router-dom';
 
-const ProductList = () => {
+const CategoryProducts = () => {
   const [products, setProducts] = useState([]);
   const [pageNumber, setPageNumber] = useState(1);
   const [loading, setLoading] = useState(false);
   const [hasMore, setHasMore] = useState(true); // Track if there are more products
   const [totalPages, setTotalPages] = useState(1); // Total number of pages for pagination
-
+  const { category } = useParams();
+  
   useEffect(() => {
     async function fetchProducts() {
       setLoading(true);
       try {
-        const response = await fetch(`http://localhost:3000/api/v1/products/page?page=${pageNumber}&limit=8`);
+        const response = await fetch(`http://localhost:3000/api/v1/products?category=${category}&page=${pageNumber}&limit=8`);
         const data = await response.json();
 
         // Replace the existing product list with new data
@@ -27,7 +29,7 @@ const ProductList = () => {
     }
 
     fetchProducts();
-  }, [pageNumber]);
+  }, [pageNumber, category]);
 
   // Handle Next and Previous buttons
   const handleNextPage = () => {
@@ -90,4 +92,4 @@ const ProductList = () => {
   );
 };
 
-export default ProductList;
+export default CategoryProducts;

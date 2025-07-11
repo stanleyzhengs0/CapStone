@@ -17,30 +17,45 @@ export const getProducts = async (req, res) => {
 }
 
 export const getPaginatedProducts = async (req, res) => {
-    try{
-        const { page } = req.query
-        
-
-        if (!page) throw new Error("Page parameter is required");
-
-        const pageNumber = parseInt(page)
-
-        const limit = 4
-
-        const nextPage = (pageNumber -1) * limit
-
-        const products = await productCollection.find({})
+    try {
+      const { page, limit } = req.query;
+  
+      if (!page) throw new Error("Page parameter is required");
+  
+      const pageNumber = parseInt(page);
+      const limitNumber = parseInt(limit);
+      const nextPage = (pageNumber - 1) * limitNumber;
+  
+      // Fetch paginated products
+      const products = await productCollection
+        .find({})
         .skip(nextPage)
-        .limit(limit)
-        .toArray()
-
-
-        res.status(200).json(products)
-        
-    }catch(error){
-        return res.status(500).json({message: "Error fetching PAGINATED products: ", Error: error})
+        .limit(limitNumber)
+        .toArray();
+  
+      // Get the total count of products to determine pagination info
+      const totalCount = await productCollection.countDocuments();
+  
+      // Calculate if there are more pages
+      const totalPages = Math.ceil(totalCount / limitNumber);
+      const hasMore = pageNumber < totalPages;
+  
+      // Return products with pagination info
+      res.status(200).json({
+        products,
+        totalCount,
+        totalPages,
+        hasMore, // Whether there are more products to load
+      });
+      
+    } catch (error) {
+      return res.status(500).json({
+        message: "Error fetching PAGINATED products: ",
+        Error: error.message,
+      });
     }
-}
+  };
+  
 
 export const getProductDetail = async (req, res) => {
     try{
