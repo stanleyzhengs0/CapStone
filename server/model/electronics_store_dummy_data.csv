@@ -1,0 +1,1001 @@
+product_id,title,category,description,price,stock_available,view_count,number_of_reviews,average_rating,reviews
+P1000,DSLR Camera,Cameras,High performance and reliability for daily use,1508.19,True,119,86,4.1,Would buy again|Not worth the price|Could be better
+P1001,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",1573.38,True,7763,153,3.5,Very satisfied|Excellent quality|Would buy again
+P1002,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,1188.92,False,1577,208,2.0,Great value for money|Amazing features|Could be better
+P1003,5G Android Phone,Mobile Phones,"Compact, stylish, and powerful",1497.48,True,6117,448,4.6,Highly recommend|Would buy again|Battery lasts long
+P1004,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",261.05,False,321,443,2.0,Great value for money|Excellent quality|Amazing features
+P1005,Action Camera,Cameras,High performance and reliability for daily use,1542.11,True,5416,309,4.6,Highly recommend|Amazing features|Excellent quality
+P1006,Mirrorless Camera,Cameras,"Perfect for work, play, and everything in between",1992.77,False,9932,105,3.4,Great value for money|Could be better|Battery lasts long
+P1007,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",407.8,True,6857,153,4.4,Battery lasts long|Very satisfied|Highly recommend
+P1008,USB-C Hub,Computer Accessories,Equipped with the latest technology,279.06,True,9564,462,4.2,Battery lasts long|Very satisfied|Would buy again
+P1009,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,759.2,False,3553,318,2.1,Could be better|Poor customer service|Highly recommend
+P1010,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",535.31,False,4672,296,1.1,Poor customer service|Highly recommend|Great value for money
+P1011,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,530.57,True,8232,100,4.2,Very satisfied|Amazing features|Excellent quality
+P1012,Smart Microwave,Home Appliances,Equipped with the latest technology,1699.54,True,2300,409,4.4,Excellent quality|Amazing features|Great value for money
+P1013,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",705.67,True,9863,4,3.6,Battery lasts long|Could be better|Excellent quality
+P1014,Budget Smartphone,Mobile Phones,User-friendly design and long battery life,694.62,False,2937,219,4.8,Amazing features|Poor customer service|Excellent quality
+P1015,Air Purifier,Home Appliances,User-friendly design and long battery life,677.06,False,285,406,1.6,Amazing features|Could be better|Battery lasts long
+P1016,Smartwatch with GPS,Wearables,High performance and reliability for daily use,581.14,False,9923,431,2.9,Very satisfied|Poor customer service|Could be better
+P1017,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",1405.75,True,5679,102,1.2,Battery lasts long|Would buy again|Amazing features
+P1018,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,486.3,True,818,62,1.0,Battery lasts long|Very satisfied|Highly recommend
+P1019,Portable Bluetooth Speaker,Audio,Equipped with the latest technology,465.78,False,4961,464,4.7,Poor customer service|Very satisfied|Great value for money
+P1020,Network Switch,Networking,"Perfect for work, play, and everything in between",1775.72,False,8673,40,2.7,Could be better|Poor customer service|Not worth the price
+P1021,"OLED TV 65""",TVs,Equipped with the latest technology,1927.11,True,8116,482,2.6,Great value for money|Not worth the price|Highly recommend
+P1022,Smartwatch with GPS,Wearables,User-friendly design and long battery life,302.97,False,640,305,2.7,Battery lasts long|Poor customer service|Amazing features
+P1023,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,520.38,True,6366,457,3.0,Excellent quality|Amazing features|Great value for money
+P1024,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",258.11,True,8715,157,4.2,Could be better|Great value for money|Poor customer service
+P1025,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",1180.42,True,1938,278,2.4,Highly recommend|Excellent quality|Amazing features
+P1026,Smart Microwave,Home Appliances,Equipped with the latest technology,839.37,False,3095,292,3.6,Poor customer service|Excellent quality|Would buy again
+P1027,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,1552.91,False,4068,155,2.2,Amazing features|Highly recommend|Poor customer service
+P1028,Smartwatch with GPS,Wearables,High performance and reliability for daily use,1040.07,True,6923,330,3.0,Poor customer service|Great value for money|Amazing features
+P1029,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,436.4,True,6517,371,3.4,Could be better|Great value for money|Amazing features
+P1030,Action Camera,Cameras,Equipped with the latest technology,295.49,False,9391,217,1.3,Battery lasts long|Amazing features|Could be better
+P1031,DSLR Camera,Cameras,"Compact, stylish, and powerful",671.41,True,4904,335,2.6,Could be better|Amazing features|Very satisfied
+P1032,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,1873.83,False,3498,27,1.4,Battery lasts long|Amazing features|Very satisfied
+P1033,"OLED TV 65""",TVs,High performance and reliability for daily use,1871.47,False,1730,424,1.6,Highly recommend|Not worth the price|Excellent quality
+P1034,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",1805.12,False,516,340,4.6,Highly recommend|Amazing features|Could be better
+P1035,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",1783.97,False,6429,425,1.9,Excellent quality|Battery lasts long|Very satisfied
+P1036,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",1395.56,False,3841,170,2.5,Could be better|Amazing features|Battery lasts long
+P1037,Smartwatch with GPS,Wearables,Equipped with the latest technology,800.04,True,376,220,4.2,Amazing features|Very satisfied|Could be better
+P1038,Wireless Gaming Mouse,Gaming,User-friendly design and long battery life,1489.76,True,2843,304,2.4,Excellent quality|Highly recommend|Great value for money
+P1039,USB-C Hub,Computer Accessories,"Compact, stylish, and powerful",1615.11,False,3336,85,2.8,Poor customer service|Great value for money|Could be better
+P1040,"Business Laptop 15""",Laptops,"Compact, stylish, and powerful",1401.89,True,9157,133,4.5,Excellent quality|Battery lasts long|Very satisfied
+P1041,"Ultrabook 13""",Laptops,High performance and reliability for daily use,263.94,True,3845,419,2.8,Very satisfied|Amazing features|Great value for money
+P1042,"Ultrabook 13""",Laptops,High performance and reliability for daily use,1369.26,True,5738,148,2.0,Could be better|Highly recommend|Great value for money
+P1043,Wi-Fi 6 Router,Networking,Equipped with the latest technology,159.97,True,1096,10,4.1,Amazing features|Great value for money|Could be better
+P1044,"OLED TV 65""",TVs,Equipped with the latest technology,507.97,False,1804,138,2.5,Not worth the price|Excellent quality|Could be better
+P1045,Mechanical Gaming Keyboard,Gaming,High performance and reliability for daily use,475.25,True,3149,439,3.5,Very satisfied|Could be better|Highly recommend
+P1046,Action Camera,Cameras,Equipped with the latest technology,552.78,False,2855,262,2.5,Could be better|Highly recommend|Poor customer service
+P1047,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",187.26,False,9022,8,2.6,Highly recommend|Amazing features|Could be better
+P1048,Mirrorless Camera,Cameras,"Perfect for work, play, and everything in between",1841.94,True,2892,67,1.3,Amazing features|Not worth the price|Could be better
+P1049,Network Switch,Networking,High performance and reliability for daily use,117.12,False,8207,354,1.4,Highly recommend|Very satisfied|Poor customer service
+P1050,Wireless Gaming Mouse,Gaming,"Perfect for work, play, and everything in between",232.32,False,4424,387,1.1,Not worth the price|Battery lasts long|Would buy again
+P1051,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",1960.41,False,3211,175,1.4,Would buy again|Highly recommend|Excellent quality
+P1052,"Ultrabook 13""",Laptops,Equipped with the latest technology,504.29,False,415,378,4.7,Not worth the price|Could be better|Highly recommend
+P1053,Ergonomic Mouse,Computer Accessories,"Perfect for work, play, and everything in between",1804.24,False,7937,22,3.6,Great value for money|Could be better|Very satisfied
+P1054,Air Purifier,Home Appliances,User-friendly design and long battery life,1755.85,True,8483,13,2.2,Great value for money|Amazing features|Would buy again
+P1055,Network Switch,Networking,High performance and reliability for daily use,802.98,False,1195,324,4.0,Very satisfied|Amazing features|Excellent quality
+P1056,Smartwatch with GPS,Wearables,User-friendly design and long battery life,640.32,True,4061,112,2.2,Highly recommend|Battery lasts long|Could be better
+P1057,"Smart LED TV 43""",TVs,High performance and reliability for daily use,1915.17,False,3961,7,2.3,Excellent quality|Would buy again|Not worth the price
+P1058,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",637.88,True,9481,171,3.6,Excellent quality|Would buy again|Amazing features
+P1059,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,1846.12,False,1434,336,2.9,Very satisfied|Highly recommend|Poor customer service
+P1060,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,1466.95,False,7197,335,4.1,Excellent quality|Great value for money|Highly recommend
+P1061,"Ultrabook 13""",Laptops,Equipped with the latest technology,331.17,False,5853,36,1.6,Could be better|Highly recommend|Battery lasts long
+P1062,"4K UHD Smart TV 55""",TVs,"Compact, stylish, and powerful",395.01,True,363,468,3.5,Not worth the price|Would buy again|Excellent quality
+P1063,"Smart LED TV 43""",TVs,High performance and reliability for daily use,1352.06,False,613,36,4.4,Not worth the price|Amazing features|Could be better
+P1064,Mechanical Gaming Keyboard,Gaming,User-friendly design and long battery life,1997.16,False,7749,363,2.9,Would buy again|Not worth the price|Could be better
+P1065,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",1924.7,True,4764,330,4.0,Would buy again|Could be better|Very satisfied
+P1066,"OLED TV 65""",TVs,"Compact, stylish, and powerful",1527.23,True,6135,368,1.4,Not worth the price|Amazing features|Battery lasts long
+P1067,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",1208.44,True,342,54,1.1,Would buy again|Great value for money|Amazing features
+P1068,Mesh Wi-Fi System,Networking,User-friendly design and long battery life,1523.66,False,4738,95,1.1,Great value for money|Could be better|Battery lasts long
+P1069,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",537.08,False,5836,241,4.1,Amazing features|Very satisfied|Not worth the price
+P1070,USB-C Hub,Computer Accessories,"Compact, stylish, and powerful",435.41,True,2921,434,4.7,Very satisfied|Highly recommend|Poor customer service
+P1071,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",1597.66,True,6698,20,1.4,Would buy again|Battery lasts long|Not worth the price
+P1072,Wireless Gaming Mouse,Gaming,User-friendly design and long battery life,847.12,False,4451,110,1.1,Amazing features|Excellent quality|Not worth the price
+P1073,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",1785.1,True,3672,461,1.7,Amazing features|Not worth the price|Very satisfied
+P1074,Mesh Wi-Fi System,Networking,User-friendly design and long battery life,148.7,False,1456,161,1.4,Battery lasts long|Excellent quality|Could be better
+P1075,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",1009.39,True,9661,159,1.1,Amazing features|Very satisfied|Excellent quality
+P1076,Mesh Wi-Fi System,Networking,Equipped with the latest technology,1136.66,True,8676,430,1.4,Highly recommend|Great value for money|Not worth the price
+P1077,Smartphone 128GB,Mobile Phones,Equipped with the latest technology,1220.63,True,4715,289,2.8,Battery lasts long|Highly recommend|Very satisfied
+P1078,Smart Glasses,Wearables,"Compact, stylish, and powerful",145.81,True,560,401,2.8,Highly recommend|Great value for money|Excellent quality
+P1079,Wireless Gaming Mouse,Gaming,User-friendly design and long battery life,772.72,True,1844,278,2.5,Highly recommend|Poor customer service|Great value for money
+P1080,Fitness Tracker,Wearables,User-friendly design and long battery life,1507.16,False,9758,42,2.1,Would buy again|Amazing features|Battery lasts long
+P1081,Smart Glasses,Wearables,Equipped with the latest technology,1443.25,False,9852,434,3.9,Highly recommend|Excellent quality|Very satisfied
+P1082,Smart Microwave,Home Appliances,Equipped with the latest technology,1721.43,False,9754,301,3.6,Very satisfied|Poor customer service|Excellent quality
+P1083,Robot Vacuum,Home Appliances,High performance and reliability for daily use,198.73,False,421,307,1.4,Very satisfied|Could be better|Would buy again
+P1084,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,677.85,True,796,394,1.5,Could be better|Poor customer service|Great value for money
+P1085,Portable Bluetooth Speaker,Audio,High performance and reliability for daily use,1650.63,False,1152,295,1.4,Excellent quality|Poor customer service|Amazing features
+P1086,Mechanical Gaming Keyboard,Gaming,High performance and reliability for daily use,557.77,False,2771,469,3.5,Excellent quality|Would buy again|Could be better
+P1087,USB-C Hub,Computer Accessories,Equipped with the latest technology,1387.59,True,4633,213,1.4,Great value for money|Battery lasts long|Not worth the price
+P1088,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",1084.43,True,2756,477,3.9,Not worth the price|Amazing features|Battery lasts long
+P1089,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",1415.43,False,6588,395,4.2,Could be better|Not worth the price|Poor customer service
+P1090,Mirrorless Camera,Cameras,Equipped with the latest technology,1579.47,False,1133,376,1.8,Poor customer service|Very satisfied|Could be better
+P1091,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",636.51,False,6369,441,3.3,Poor customer service|Great value for money|Battery lasts long
+P1092,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",343.86,False,5704,208,4.6,Excellent quality|Not worth the price|Amazing features
+P1093,Fitness Tracker,Wearables,High performance and reliability for daily use,1061.44,True,4455,20,5.0,Highly recommend|Poor customer service|Would buy again
+P1094,Fitness Tracker,Wearables,"Compact, stylish, and powerful",964.85,False,9430,447,1.1,Amazing features|Great value for money|Could be better
+P1095,Fitness Tracker,Wearables,"Compact, stylish, and powerful",1491.39,False,6040,276,3.4,Amazing features|Poor customer service|Great value for money
+P1096,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",1705.33,True,8692,304,4.9,Excellent quality|Very satisfied|Battery lasts long
+P1097,Ergonomic Mouse,Computer Accessories,Equipped with the latest technology,1320.17,False,426,333,2.4,Could be better|Not worth the price|Would buy again
+P1098,"OLED TV 65""",TVs,User-friendly design and long battery life,933.13,False,733,373,2.8,Battery lasts long|Excellent quality|Great value for money
+P1099,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",1010.45,False,2722,311,1.9,Excellent quality|Very satisfied|Highly recommend
+P1100,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",1788.98,False,6934,291,2.6,Amazing features|Could be better|Would buy again
+P1101,Smart Glasses,Wearables,High performance and reliability for daily use,567.99,True,3223,250,1.7,Excellent quality|Could be better|Amazing features
+P1102,Smart Microwave,Home Appliances,Equipped with the latest technology,1522.47,True,5897,325,1.5,Battery lasts long|Poor customer service|Not worth the price
+P1103,Gaming Console,Gaming,"Perfect for work, play, and everything in between",1320.39,True,275,103,3.7,Excellent quality|Great value for money|Very satisfied
+P1104,"OLED TV 65""",TVs,Equipped with the latest technology,1897.46,False,5825,378,4.7,Very satisfied|Great value for money|Could be better
+P1105,"Business Laptop 15""",Laptops,"Compact, stylish, and powerful",1660.88,True,1850,270,2.2,Would buy again|Could be better|Great value for money
+P1106,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",987.89,True,6885,28,1.8,Could be better|Very satisfied|Excellent quality
+P1107,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",755.82,True,5006,406,2.4,Would buy again|Great value for money|Could be better
+P1108,Soundbar with Subwoofer,Audio,High performance and reliability for daily use,1805.04,False,1610,383,4.1,Very satisfied|Battery lasts long|Great value for money
+P1109,5G Android Phone,Mobile Phones,"Compact, stylish, and powerful",293.09,False,5348,442,1.6,Excellent quality|Poor customer service|Great value for money
+P1110,"Smart LED TV 43""",TVs,Equipped with the latest technology,487.26,False,9478,280,2.2,Great value for money|Not worth the price|Would buy again
+P1111,DSLR Camera,Cameras,"Compact, stylish, and powerful",830.59,False,580,352,3.0,Great value for money|Amazing features|Would buy again
+P1112,"Business Laptop 15""",Laptops,High performance and reliability for daily use,1939.38,True,5859,499,3.7,Highly recommend|Very satisfied|Amazing features
+P1113,"Ultrabook 13""",Laptops,User-friendly design and long battery life,416.97,False,596,129,4.7,Great value for money|Would buy again|Highly recommend
+P1114,"Ultrabook 13""",Laptops,High performance and reliability for daily use,935.96,True,1162,278,4.9,Could be better|Not worth the price|Battery lasts long
+P1115,Fitness Tracker,Wearables,High performance and reliability for daily use,1737.08,False,6905,67,4.1,Excellent quality|Great value for money|Would buy again
+P1116,"4K UHD Smart TV 55""",TVs,High performance and reliability for daily use,1827.58,False,3856,220,2.1,Highly recommend|Amazing features|Excellent quality
+P1117,5G Android Phone,Mobile Phones,High performance and reliability for daily use,1847.92,True,5215,113,2.2,Poor customer service|Would buy again|Could be better
+P1118,Smart Glasses,Wearables,Equipped with the latest technology,1168.05,False,7668,219,3.5,Could be better|Very satisfied|Amazing features
+P1119,Network Switch,Networking,High performance and reliability for daily use,71.06,False,6349,374,2.0,Not worth the price|Highly recommend|Excellent quality
+P1120,Network Switch,Networking,"Compact, stylish, and powerful",1084.47,True,5158,369,3.8,Amazing features|Great value for money|Battery lasts long
+P1121,Budget Smartphone,Mobile Phones,User-friendly design and long battery life,1653.43,True,1557,130,3.9,Could be better|Poor customer service|Not worth the price
+P1122,USB-C Hub,Computer Accessories,"Perfect for work, play, and everything in between",1174.25,False,3413,471,4.3,Excellent quality|Poor customer service|Highly recommend
+P1123,Wireless Gaming Mouse,Gaming,"Perfect for work, play, and everything in between",1813.3,True,7079,151,2.2,Battery lasts long|Poor customer service|Great value for money
+P1124,"Business Laptop 15""",Laptops,High performance and reliability for daily use,1910.64,False,8992,365,3.7,Excellent quality|Highly recommend|Very satisfied
+P1125,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",520.73,True,4569,237,4.4,Not worth the price|Battery lasts long|Amazing features
+P1126,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",731.3,True,8710,227,3.0,Excellent quality|Amazing features|Very satisfied
+P1127,USB-C Hub,Computer Accessories,"Perfect for work, play, and everything in between",382.08,True,5446,239,2.1,Not worth the price|Very satisfied|Excellent quality
+P1128,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,481.56,True,5585,337,1.8,Battery lasts long|Highly recommend|Great value for money
+P1129,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",1360.99,True,1198,256,3.7,Poor customer service|Excellent quality|Would buy again
+P1130,Ergonomic Mouse,Computer Accessories,"Compact, stylish, and powerful",1101.89,False,6609,111,1.3,Could be better|Great value for money|Amazing features
+P1131,Ergonomic Mouse,Computer Accessories,"Compact, stylish, and powerful",42.96,False,8673,376,4.1,Would buy again|Amazing features|Excellent quality
+P1132,USB-C Hub,Computer Accessories,"Compact, stylish, and powerful",1952.11,False,1887,86,3.5,Very satisfied|Highly recommend|Not worth the price
+P1133,Gaming Laptop 16GB RAM,Laptops,High performance and reliability for daily use,302.84,False,9194,197,1.5,Great value for money|Battery lasts long|Not worth the price
+P1134,Smartwatch with GPS,Wearables,High performance and reliability for daily use,1988.2,True,3731,193,3.6,Highly recommend|Battery lasts long|Excellent quality
+P1135,"OLED TV 65""",TVs,High performance and reliability for daily use,564.53,False,4952,321,3.4,Great value for money|Battery lasts long|Would buy again
+P1136,DSLR Camera,Cameras,User-friendly design and long battery life,909.36,False,9113,481,3.4,Battery lasts long|Highly recommend|Excellent quality
+P1137,Wireless Noise Cancelling Headphones,Audio,"Perfect for work, play, and everything in between",1007.5,False,7610,95,1.2,Very satisfied|Would buy again|Amazing features
+P1138,Ergonomic Mouse,Computer Accessories,"Perfect for work, play, and everything in between",418.03,False,2070,436,2.4,Poor customer service|Highly recommend|Amazing features
+P1139,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",23.74,False,3343,279,4.0,Would buy again|Poor customer service|Amazing features
+P1140,USB-C Hub,Computer Accessories,User-friendly design and long battery life,1334.67,True,4190,161,4.5,Not worth the price|Great value for money|Very satisfied
+P1141,DSLR Camera,Cameras,High performance and reliability for daily use,1972.45,False,308,349,1.1,Battery lasts long|Highly recommend|Would buy again
+P1142,Network Switch,Networking,User-friendly design and long battery life,82.22,False,8168,246,4.6,Not worth the price|Great value for money|Battery lasts long
+P1143,"4K UHD Smart TV 55""",TVs,"Compact, stylish, and powerful",905.24,False,3917,242,2.9,Great value for money|Would buy again|Could be better
+P1144,Smartphone 128GB,Mobile Phones,"Perfect for work, play, and everything in between",982.02,True,8492,467,1.7,Excellent quality|Amazing features|Not worth the price
+P1145,"Ultrabook 13""",Laptops,High performance and reliability for daily use,1175.96,False,1134,94,1.2,Highly recommend|Would buy again|Battery lasts long
+P1146,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",1028.64,True,1044,23,1.2,Very satisfied|Amazing features|Highly recommend
+P1147,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",365.14,True,9100,62,1.5,Could be better|Poor customer service|Excellent quality
+P1148,Soundbar with Subwoofer,Audio,User-friendly design and long battery life,747.19,False,5627,98,2.5,Very satisfied|Battery lasts long|Great value for money
+P1149,"Ultrabook 13""",Laptops,Equipped with the latest technology,1885.31,False,4468,211,2.3,Could be better|Would buy again|Poor customer service
+P1150,Smartwatch with GPS,Wearables,User-friendly design and long battery life,220.97,True,5519,265,1.8,Would buy again|Great value for money|Very satisfied
+P1151,"OLED TV 65""",TVs,User-friendly design and long battery life,977.29,True,5332,47,3.7,Very satisfied|Would buy again|Highly recommend
+P1152,Wireless Gaming Mouse,Gaming,"Compact, stylish, and powerful",977.7,True,2052,412,4.3,Battery lasts long|Excellent quality|Amazing features
+P1153,Gaming Console,Gaming,Equipped with the latest technology,605.39,False,4093,315,3.1,Excellent quality|Battery lasts long|Great value for money
+P1154,External SSD 1TB,Computer Accessories,Equipped with the latest technology,1671.33,True,2259,444,3.9,Excellent quality|Not worth the price|Battery lasts long
+P1155,Gaming Console,Gaming,High performance and reliability for daily use,1445.23,True,7304,449,4.9,Poor customer service|Not worth the price|Would buy again
+P1156,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",1691.68,False,5462,365,3.9,Could be better|Highly recommend|Great value for money
+P1157,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",947.56,False,7036,346,1.6,Excellent quality|Great value for money|Would buy again
+P1158,Wireless Gaming Mouse,Gaming,Equipped with the latest technology,726.8,False,2391,220,1.5,Not worth the price|Would buy again|Battery lasts long
+P1159,Network Switch,Networking,"Compact, stylish, and powerful",218.63,True,6449,291,2.1,Not worth the price|Poor customer service|Highly recommend
+P1160,Smart Glasses,Wearables,"Perfect for work, play, and everything in between",1431.75,True,2648,373,2.8,Could be better|Would buy again|Highly recommend
+P1161,"Smart LED TV 43""",TVs,Equipped with the latest technology,1941.71,False,8532,322,2.9,Would buy again|Great value for money|Battery lasts long
+P1162,Soundbar with Subwoofer,Audio,User-friendly design and long battery life,962.36,True,2399,241,3.2,Poor customer service|Highly recommend|Not worth the price
+P1163,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",883.19,False,7276,465,4.1,Very satisfied|Great value for money|Poor customer service
+P1164,Ergonomic Mouse,Computer Accessories,Equipped with the latest technology,453.52,False,4956,343,4.2,Could be better|Great value for money|Amazing features
+P1165,Smart Microwave,Home Appliances,Equipped with the latest technology,667.54,False,3652,451,4.0,Battery lasts long|Amazing features|Highly recommend
+P1166,Gaming Console,Gaming,High performance and reliability for daily use,1217.15,False,500,452,4.2,Could be better|Would buy again|Battery lasts long
+P1167,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",1998.08,False,4691,457,2.6,Great value for money|Not worth the price|Excellent quality
+P1168,5G Android Phone,Mobile Phones,User-friendly design and long battery life,914.85,False,2760,152,4.1,Great value for money|Not worth the price|Would buy again
+P1169,Wireless Noise Cancelling Headphones,Audio,High performance and reliability for daily use,904.7,False,6822,487,1.7,Poor customer service|Great value for money|Highly recommend
+P1170,Wi-Fi 6 Router,Networking,"Compact, stylish, and powerful",1268.22,True,6291,194,2.3,Not worth the price|Would buy again|Amazing features
+P1171,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",1682.5,True,8981,214,1.4,Poor customer service|Battery lasts long|Excellent quality
+P1172,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,1993.09,False,189,249,4.8,Excellent quality|Very satisfied|Amazing features
+P1173,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,802.67,False,410,73,3.2,Great value for money|Very satisfied|Poor customer service
+P1174,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",948.7,True,3733,314,3.4,Highly recommend|Not worth the price|Excellent quality
+P1175,Air Purifier,Home Appliances,User-friendly design and long battery life,1717.14,True,5134,449,1.2,Battery lasts long|Amazing features|Poor customer service
+P1176,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",463.04,True,2459,259,4.5,Battery lasts long|Highly recommend|Would buy again
+P1177,Action Camera,Cameras,"Perfect for work, play, and everything in between",1867.65,True,6404,230,3.0,Highly recommend|Not worth the price|Very satisfied
+P1178,Robot Vacuum,Home Appliances,User-friendly design and long battery life,712.23,True,2124,463,2.3,Could be better|Would buy again|Highly recommend
+P1179,Gaming Laptop 16GB RAM,Laptops,High performance and reliability for daily use,1229.29,True,8162,491,4.1,Very satisfied|Battery lasts long|Could be better
+P1180,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,597.62,False,1874,274,4.0,Great value for money|Amazing features|Would buy again
+P1181,"Business Laptop 15""",Laptops,Equipped with the latest technology,909.96,False,9456,148,3.0,Poor customer service|Would buy again|Very satisfied
+P1182,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",987.28,True,8709,239,2.7,Excellent quality|Very satisfied|Would buy again
+P1183,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,987.39,True,4180,185,1.9,Very satisfied|Excellent quality|Great value for money
+P1184,Smartphone 128GB,Mobile Phones,High performance and reliability for daily use,1128.44,False,3765,11,1.8,Poor customer service|Great value for money|Very satisfied
+P1185,Ergonomic Mouse,Computer Accessories,Equipped with the latest technology,172.83,True,9082,177,3.3,Poor customer service|Excellent quality|Battery lasts long
+P1186,Smart Microwave,Home Appliances,Equipped with the latest technology,1236.56,False,8172,83,1.1,Amazing features|Could be better|Would buy again
+P1187,5G Android Phone,Mobile Phones,Equipped with the latest technology,604.81,False,8556,235,1.6,Would buy again|Great value for money|Poor customer service
+P1188,Smartphone 128GB,Mobile Phones,High performance and reliability for daily use,1726.04,False,3882,339,4.6,Great value for money|Could be better|Amazing features
+P1189,Mechanical Gaming Keyboard,Gaming,User-friendly design and long battery life,587.04,False,3367,321,2.5,Poor customer service|Not worth the price|Amazing features
+P1190,Wireless Noise Cancelling Headphones,Audio,Equipped with the latest technology,958.94,True,2961,369,4.9,Poor customer service|Highly recommend|Excellent quality
+P1191,5G Android Phone,Mobile Phones,High performance and reliability for daily use,82.42,True,3948,123,4.2,Poor customer service|Excellent quality|Would buy again
+P1192,Fitness Tracker,Wearables,User-friendly design and long battery life,1271.5,True,1928,84,1.7,Battery lasts long|Amazing features|Highly recommend
+P1193,"Smart LED TV 43""",TVs,Equipped with the latest technology,1945.28,False,2320,47,3.8,Poor customer service|Excellent quality|Amazing features
+P1194,"Ultrabook 13""",Laptops,Equipped with the latest technology,454.35,False,5772,142,3.0,Poor customer service|Could be better|Would buy again
+P1195,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,1376.21,True,3548,352,2.8,Could be better|Poor customer service|Highly recommend
+P1196,Smartwatch with GPS,Wearables,Equipped with the latest technology,1909.73,True,4163,358,1.6,Poor customer service|Highly recommend|Battery lasts long
+P1197,"OLED TV 65""",TVs,"Compact, stylish, and powerful",1060.52,False,7494,270,4.7,Not worth the price|Could be better|Very satisfied
+P1198,"Business Laptop 15""",Laptops,Equipped with the latest technology,953.03,False,1879,283,2.5,Highly recommend|Poor customer service|Would buy again
+P1199,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",1000.29,False,7631,3,4.4,Battery lasts long|Would buy again|Excellent quality
+P1200,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",1722.62,False,6361,433,3.8,Amazing features|Battery lasts long|Great value for money
+P1201,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,838.44,False,5206,449,1.0,Highly recommend|Amazing features|Could be better
+P1202,Action Camera,Cameras,"Perfect for work, play, and everything in between",554.24,False,2205,314,3.9,Battery lasts long|Could be better|Highly recommend
+P1203,Network Switch,Networking,"Perfect for work, play, and everything in between",1765.43,True,3021,472,1.6,Not worth the price|Poor customer service|Very satisfied
+P1204,Air Purifier,Home Appliances,"Compact, stylish, and powerful",1750.78,True,914,416,1.2,Very satisfied|Great value for money|Highly recommend
+P1205,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",990.03,True,1267,359,3.6,Poor customer service|Excellent quality|Highly recommend
+P1206,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",1463.22,False,4302,315,4.8,Poor customer service|Not worth the price|Highly recommend
+P1207,DSLR Camera,Cameras,Equipped with the latest technology,1633.45,False,3365,117,1.7,Very satisfied|Amazing features|Battery lasts long
+P1208,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",341.85,False,2390,137,4.4,Amazing features|Great value for money|Highly recommend
+P1209,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",555.74,False,1779,486,4.9,Excellent quality|Poor customer service|Amazing features
+P1210,Wireless Noise Cancelling Headphones,Audio,High performance and reliability for daily use,493.67,True,2870,138,1.3,Amazing features|Very satisfied|Highly recommend
+P1211,Ergonomic Mouse,Computer Accessories,Equipped with the latest technology,923.8,True,2524,37,3.9,Great value for money|Excellent quality|Amazing features
+P1212,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",1491.83,False,6963,28,4.3,Would buy again|Great value for money|Battery lasts long
+P1213,5G Android Phone,Mobile Phones,High performance and reliability for daily use,1376.33,False,5031,414,3.1,Great value for money|Not worth the price|Excellent quality
+P1214,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,204.41,False,3112,248,4.9,Not worth the price|Excellent quality|Battery lasts long
+P1215,Action Camera,Cameras,"Perfect for work, play, and everything in between",544.19,False,6700,202,2.6,Not worth the price|Great value for money|Poor customer service
+P1216,"Smart LED TV 43""",TVs,Equipped with the latest technology,1029.28,False,2279,234,1.6,Excellent quality|Poor customer service|Amazing features
+P1217,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,1452.88,True,7836,421,3.8,Highly recommend|Could be better|Very satisfied
+P1218,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",387.59,True,4447,40,1.4,Great value for money|Excellent quality|Very satisfied
+P1219,Fitness Tracker,Wearables,"Compact, stylish, and powerful",1216.1,False,409,377,4.7,Highly recommend|Very satisfied|Would buy again
+P1220,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",1851.59,False,4353,177,1.7,Would buy again|Great value for money|Could be better
+P1221,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",1379.9,False,6812,150,3.6,Could be better|Amazing features|Would buy again
+P1222,Wi-Fi 6 Router,Networking,"Perfect for work, play, and everything in between",502.7,True,2803,18,2.7,Excellent quality|Highly recommend|Could be better
+P1223,"4K UHD Smart TV 55""",TVs,User-friendly design and long battery life,1076.66,True,346,60,2.8,Poor customer service|Great value for money|Excellent quality
+P1224,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,1335.6,True,5041,487,4.4,Excellent quality|Great value for money|Highly recommend
+P1225,"Ultrabook 13""",Laptops,"Compact, stylish, and powerful",421.98,True,9845,396,3.5,Highly recommend|Amazing features|Not worth the price
+P1226,Mirrorless Camera,Cameras,User-friendly design and long battery life,888.54,True,7152,53,3.8,Excellent quality|Not worth the price|Poor customer service
+P1227,Smart Glasses,Wearables,"Perfect for work, play, and everything in between",1206.47,True,4729,480,3.4,Excellent quality|Highly recommend|Battery lasts long
+P1228,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",258.11,True,505,283,3.5,Would buy again|Excellent quality|Poor customer service
+P1229,"OLED TV 65""",TVs,"Compact, stylish, and powerful",947.03,True,6321,299,2.9,Would buy again|Could be better|Great value for money
+P1230,Action Camera,Cameras,Equipped with the latest technology,622.12,False,6747,403,1.4,Highly recommend|Would buy again|Great value for money
+P1231,"OLED TV 65""",TVs,"Compact, stylish, and powerful",271.11,True,914,248,2.0,Poor customer service|Very satisfied|Amazing features
+P1232,DSLR Camera,Cameras,Equipped with the latest technology,1614.73,False,5608,96,4.9,Very satisfied|Could be better|Would buy again
+P1233,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",650.53,True,4329,217,3.4,Highly recommend|Would buy again|Could be better
+P1234,Gaming Laptop 16GB RAM,Laptops,Equipped with the latest technology,961.55,True,1539,197,1.4,Not worth the price|Amazing features|Could be better
+P1235,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",1774.94,True,2199,168,1.3,Excellent quality|Would buy again|Very satisfied
+P1236,"OLED TV 65""",TVs,High performance and reliability for daily use,893.15,False,9305,107,4.5,Could be better|Poor customer service|Amazing features
+P1237,USB-C Hub,Computer Accessories,High performance and reliability for daily use,1693.31,True,8932,441,1.2,Highly recommend|Not worth the price|Could be better
+P1238,Wireless Noise Cancelling Headphones,Audio,"Perfect for work, play, and everything in between",1285.12,False,1548,203,1.5,Could be better|Very satisfied|Poor customer service
+P1239,Smartphone 128GB,Mobile Phones,"Perfect for work, play, and everything in between",1459.42,True,1379,86,1.9,Amazing features|Would buy again|Great value for money
+P1240,"4K UHD Smart TV 55""",TVs,"Compact, stylish, and powerful",1563.63,False,1063,316,4.7,Battery lasts long|Very satisfied|Not worth the price
+P1241,Smart Microwave,Home Appliances,"Compact, stylish, and powerful",572.25,False,9550,264,4.7,Excellent quality|Could be better|Not worth the price
+P1242,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",312.97,True,4028,475,1.1,Battery lasts long|Would buy again|Great value for money
+P1243,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,1096.0,False,7486,8,2.9,Great value for money|Amazing features|Very satisfied
+P1244,Mirrorless Camera,Cameras,High performance and reliability for daily use,1710.87,False,5935,330,2.9,Could be better|Excellent quality|Very satisfied
+P1245,"Business Laptop 15""",Laptops,User-friendly design and long battery life,265.16,True,2278,266,2.2,Excellent quality|Poor customer service|Highly recommend
+P1246,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",604.9,False,5808,493,2.9,Not worth the price|Would buy again|Very satisfied
+P1247,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",626.88,False,418,47,2.2,Very satisfied|Not worth the price|Could be better
+P1248,Mesh Wi-Fi System,Networking,User-friendly design and long battery life,832.92,False,1262,139,2.4,Great value for money|Highly recommend|Battery lasts long
+P1249,Mirrorless Camera,Cameras,Equipped with the latest technology,714.05,False,2331,305,1.1,Would buy again|Very satisfied|Battery lasts long
+P1250,Smart Glasses,Wearables,"Compact, stylish, and powerful",762.96,False,6063,315,2.0,Highly recommend|Poor customer service|Battery lasts long
+P1251,Gaming Console,Gaming,"Compact, stylish, and powerful",1285.37,False,7593,248,2.5,Excellent quality|Could be better|Very satisfied
+P1252,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",230.74,True,4046,489,2.7,Great value for money|Battery lasts long|Very satisfied
+P1253,"Business Laptop 15""",Laptops,High performance and reliability for daily use,1392.43,True,5360,483,2.8,Not worth the price|Poor customer service|Highly recommend
+P1254,"Business Laptop 15""",Laptops,User-friendly design and long battery life,481.83,True,7628,432,4.4,Very satisfied|Would buy again|Could be better
+P1255,"Ultrabook 13""",Laptops,Equipped with the latest technology,1417.78,True,5977,477,3.2,Would buy again|Amazing features|Very satisfied
+P1256,Smartphone 128GB,Mobile Phones,Equipped with the latest technology,1986.39,True,3793,83,1.8,Would buy again|Highly recommend|Excellent quality
+P1257,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",658.28,False,4559,444,1.8,Excellent quality|Would buy again|Could be better
+P1258,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",540.45,False,5734,231,2.0,Could be better|Excellent quality|Highly recommend
+P1259,Robot Vacuum,Home Appliances,Equipped with the latest technology,1332.64,True,3203,342,4.4,Battery lasts long|Amazing features|Great value for money
+P1260,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",318.32,False,1349,494,3.2,Not worth the price|Would buy again|Could be better
+P1261,Gaming Console,Gaming,High performance and reliability for daily use,1284.71,True,6779,492,4.5,Excellent quality|Not worth the price|Could be better
+P1262,Ergonomic Mouse,Computer Accessories,"Compact, stylish, and powerful",1310.67,True,214,339,1.6,Poor customer service|Great value for money|Would buy again
+P1263,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",203.91,False,8961,311,1.4,Very satisfied|Highly recommend|Poor customer service
+P1264,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,133.38,False,597,335,4.1,Not worth the price|Amazing features|Excellent quality
+P1265,"Smart LED TV 43""",TVs,High performance and reliability for daily use,1196.04,True,7714,276,4.9,Highly recommend|Great value for money|Would buy again
+P1266,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,590.19,True,6353,101,1.9,Could be better|Great value for money|Highly recommend
+P1267,Smart Glasses,Wearables,"Perfect for work, play, and everything in between",529.32,False,2897,407,2.1,Amazing features|Could be better|Not worth the price
+P1268,Smart Microwave,Home Appliances,Equipped with the latest technology,891.69,False,4547,39,2.1,Would buy again|Battery lasts long|Not worth the price
+P1269,USB-C Hub,Computer Accessories,Equipped with the latest technology,248.61,False,2925,250,4.8,Excellent quality|Very satisfied|Could be better
+P1270,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",450.5,True,9826,277,1.2,Excellent quality|Amazing features|Would buy again
+P1271,Robot Vacuum,Home Appliances,Equipped with the latest technology,1927.33,True,5764,250,3.1,Battery lasts long|Poor customer service|Not worth the price
+P1272,Network Switch,Networking,Equipped with the latest technology,75.91,True,9679,224,4.7,Great value for money|Amazing features|Not worth the price
+P1273,Gaming Console,Gaming,High performance and reliability for daily use,215.68,False,5090,178,2.1,Excellent quality|Amazing features|Battery lasts long
+P1274,Fitness Tracker,Wearables,User-friendly design and long battery life,748.1,True,5732,402,4.2,Excellent quality|Not worth the price|Battery lasts long
+P1275,Network Switch,Networking,High performance and reliability for daily use,1049.77,False,4755,260,4.7,Great value for money|Excellent quality|Would buy again
+P1276,Action Camera,Cameras,User-friendly design and long battery life,1805.71,False,5259,176,3.9,Great value for money|Could be better|Battery lasts long
+P1277,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",1719.69,False,2251,400,1.3,Could be better|Very satisfied|Great value for money
+P1278,Gaming Console,Gaming,"Perfect for work, play, and everything in between",1805.21,False,4384,155,4.0,Battery lasts long|Very satisfied|Poor customer service
+P1279,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",1536.49,True,2670,29,2.7,Very satisfied|Would buy again|Battery lasts long
+P1280,"OLED TV 65""",TVs,User-friendly design and long battery life,822.73,False,8006,298,1.8,Excellent quality|Would buy again|Battery lasts long
+P1281,USB-C Hub,Computer Accessories,High performance and reliability for daily use,1973.07,False,1782,380,1.4,Very satisfied|Excellent quality|Amazing features
+P1282,Smart Glasses,Wearables,"Compact, stylish, and powerful",1233.25,True,9675,413,3.0,Battery lasts long|Could be better|Highly recommend
+P1283,Smart Glasses,Wearables,User-friendly design and long battery life,380.93,True,5347,197,3.0,Amazing features|Battery lasts long|Highly recommend
+P1284,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",1453.68,True,6656,121,2.9,Would buy again|Battery lasts long|Great value for money
+P1285,Smartphone 128GB,Mobile Phones,User-friendly design and long battery life,1615.59,True,9118,378,4.5,Poor customer service|Amazing features|Battery lasts long
+P1286,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",1031.58,False,6857,90,1.1,Battery lasts long|Not worth the price|Highly recommend
+P1287,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,566.84,True,5302,313,3.8,Amazing features|Not worth the price|Highly recommend
+P1288,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,629.77,True,1665,287,3.9,Battery lasts long|Would buy again|Poor customer service
+P1289,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",1725.19,True,3307,110,1.4,Could be better|Great value for money|Not worth the price
+P1290,Ergonomic Mouse,Computer Accessories,"Compact, stylish, and powerful",1834.82,False,9354,366,4.2,Battery lasts long|Great value for money|Highly recommend
+P1291,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",171.64,False,7279,427,4.9,Very satisfied|Great value for money|Could be better
+P1292,"Ultrabook 13""",Laptops,User-friendly design and long battery life,1322.2,True,913,25,4.8,Battery lasts long|Very satisfied|Could be better
+P1293,Gaming Console,Gaming,Equipped with the latest technology,1755.87,False,2329,479,4.4,Could be better|Great value for money|Amazing features
+P1294,Action Camera,Cameras,High performance and reliability for daily use,1127.18,True,9422,164,3.0,Highly recommend|Not worth the price|Amazing features
+P1295,Network Switch,Networking,Equipped with the latest technology,1681.99,False,2085,262,4.1,Very satisfied|Could be better|Highly recommend
+P1296,Gaming Console,Gaming,"Compact, stylish, and powerful",761.11,False,695,84,3.5,Could be better|Very satisfied|Not worth the price
+P1297,External SSD 1TB,Computer Accessories,Equipped with the latest technology,57.26,False,5921,427,1.9,Great value for money|Amazing features|Excellent quality
+P1298,Air Purifier,Home Appliances,High performance and reliability for daily use,333.65,False,9962,20,1.2,Not worth the price|Highly recommend|Great value for money
+P1299,Ergonomic Mouse,Computer Accessories,Equipped with the latest technology,1823.2,True,6080,164,4.2,Great value for money|Highly recommend|Not worth the price
+P1300,DSLR Camera,Cameras,Equipped with the latest technology,1954.47,True,1198,154,2.7,Poor customer service|Battery lasts long|Great value for money
+P1301,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,764.7,True,7572,310,2.7,Very satisfied|Would buy again|Excellent quality
+P1302,Smart Microwave,Home Appliances,Equipped with the latest technology,1621.46,False,326,262,3.1,Very satisfied|Highly recommend|Excellent quality
+P1303,"OLED TV 65""",TVs,User-friendly design and long battery life,688.55,True,3880,279,4.2,Poor customer service|Not worth the price|Would buy again
+P1304,DSLR Camera,Cameras,Equipped with the latest technology,592.89,True,6822,30,3.6,Amazing features|Battery lasts long|Could be better
+P1305,USB-C Hub,Computer Accessories,User-friendly design and long battery life,504.99,False,9106,450,4.6,Excellent quality|Poor customer service|Amazing features
+P1306,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",646.75,True,2394,412,1.9,Highly recommend|Very satisfied|Poor customer service
+P1307,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",231.45,False,9319,78,2.7,Highly recommend|Amazing features|Poor customer service
+P1308,Wireless Gaming Mouse,Gaming,High performance and reliability for daily use,1968.61,False,9951,475,2.6,Highly recommend|Very satisfied|Poor customer service
+P1309,"OLED TV 65""",TVs,"Compact, stylish, and powerful",710.39,False,7773,448,4.8,Very satisfied|Excellent quality|Could be better
+P1310,Soundbar with Subwoofer,Audio,Equipped with the latest technology,1870.01,True,800,479,4.0,Excellent quality|Not worth the price|Highly recommend
+P1311,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,963.39,True,6909,155,1.2,Poor customer service|Highly recommend|Not worth the price
+P1312,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",1504.95,False,4361,400,1.9,Great value for money|Poor customer service|Amazing features
+P1313,Wi-Fi 6 Router,Networking,"Perfect for work, play, and everything in between",1692.37,True,7668,345,4.9,Poor customer service|Not worth the price|Great value for money
+P1314,Budget Smartphone,Mobile Phones,User-friendly design and long battery life,501.63,False,7767,499,1.7,Amazing features|Battery lasts long|Great value for money
+P1315,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",1666.67,False,4335,343,3.4,Poor customer service|Could be better|Not worth the price
+P1316,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,61.19,True,3631,351,2.0,Excellent quality|Great value for money|Not worth the price
+P1317,"Business Laptop 15""",Laptops,Equipped with the latest technology,1394.51,True,4957,31,2.2,Great value for money|Could be better|Amazing features
+P1318,5G Android Phone,Mobile Phones,High performance and reliability for daily use,1602.52,True,6164,66,2.7,Not worth the price|Excellent quality|Great value for money
+P1319,Network Switch,Networking,"Compact, stylish, and powerful",776.24,True,1388,244,4.1,Highly recommend|Could be better|Poor customer service
+P1320,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,412.95,True,6395,56,1.7,Could be better|Not worth the price|Amazing features
+P1321,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,1001.89,True,5045,224,3.4,Would buy again|Could be better|Amazing features
+P1322,Gaming Console,Gaming,"Compact, stylish, and powerful",546.26,True,9632,478,4.7,Great value for money|Very satisfied|Excellent quality
+P1323,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",1223.17,False,4001,194,4.8,Highly recommend|Would buy again|Poor customer service
+P1324,Portable Bluetooth Speaker,Audio,High performance and reliability for daily use,29.12,False,1415,468,1.1,Amazing features|Not worth the price|Could be better
+P1325,Smartwatch with GPS,Wearables,User-friendly design and long battery life,1700.58,True,7073,372,3.7,Would buy again|Not worth the price|Great value for money
+P1326,Ergonomic Mouse,Computer Accessories,"Compact, stylish, and powerful",465.64,False,7701,44,4.2,Very satisfied|Highly recommend|Great value for money
+P1327,Mirrorless Camera,Cameras,High performance and reliability for daily use,568.0,True,8604,230,1.7,Amazing features|Very satisfied|Poor customer service
+P1328,USB-C Hub,Computer Accessories,Equipped with the latest technology,1155.22,True,1128,90,3.0,Excellent quality|Highly recommend|Amazing features
+P1329,Portable Bluetooth Speaker,Audio,High performance and reliability for daily use,107.92,True,7808,263,1.6,Not worth the price|Could be better|Would buy again
+P1330,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",1693.92,False,4450,480,4.2,Amazing features|Very satisfied|Highly recommend
+P1331,Soundbar with Subwoofer,Audio,User-friendly design and long battery life,1213.04,True,3669,403,4.5,Could be better|Would buy again|Poor customer service
+P1332,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,1316.06,False,2881,409,3.4,Would buy again|Battery lasts long|Highly recommend
+P1333,Smart Glasses,Wearables,User-friendly design and long battery life,323.8,False,9335,336,3.4,Could be better|Battery lasts long|Excellent quality
+P1334,Wireless Gaming Mouse,Gaming,Equipped with the latest technology,893.2,True,1678,454,2.6,Battery lasts long|Excellent quality|Poor customer service
+P1335,Gaming Laptop 16GB RAM,Laptops,Equipped with the latest technology,242.02,True,9676,181,3.6,Excellent quality|Great value for money|Amazing features
+P1336,Smartphone 128GB,Mobile Phones,Equipped with the latest technology,216.11,False,8461,492,3.4,Would buy again|Very satisfied|Poor customer service
+P1337,Mirrorless Camera,Cameras,"Perfect for work, play, and everything in between",509.7,True,9278,398,2.6,Highly recommend|Great value for money|Could be better
+P1338,Network Switch,Networking,User-friendly design and long battery life,171.24,True,6128,0,2.1,Battery lasts long
+P1339,Wireless Noise Cancelling Headphones,Audio,High performance and reliability for daily use,799.03,True,3861,29,2.5,Would buy again|Poor customer service|Great value for money
+P1340,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",302.13,False,7592,313,1.1,Amazing features|Poor customer service|Highly recommend
+P1341,Gaming Console,Gaming,"Perfect for work, play, and everything in between",1175.92,True,4565,112,3.3,Poor customer service|Amazing features|Could be better
+P1342,Robot Vacuum,Home Appliances,User-friendly design and long battery life,626.64,False,9767,93,1.1,Great value for money|Highly recommend|Amazing features
+P1343,Portable Bluetooth Speaker,Audio,User-friendly design and long battery life,1850.09,False,4279,121,2.4,Battery lasts long|Poor customer service|Not worth the price
+P1344,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",1329.05,True,3022,6,4.9,Amazing features|Poor customer service|Excellent quality
+P1345,Wireless Noise Cancelling Headphones,Audio,Equipped with the latest technology,563.59,True,8610,311,1.3,Battery lasts long|Not worth the price|Poor customer service
+P1346,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",1481.51,True,8661,102,3.6,Highly recommend|Would buy again|Very satisfied
+P1347,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,983.55,False,7173,43,1.3,Not worth the price|Very satisfied|Poor customer service
+P1348,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,1469.1,True,4086,469,3.9,Could be better|Not worth the price|Excellent quality
+P1349,Wireless Gaming Mouse,Gaming,User-friendly design and long battery life,1670.47,True,2511,450,2.4,Would buy again|Highly recommend|Excellent quality
+P1350,Gaming Laptop 16GB RAM,Laptops,"Perfect for work, play, and everything in between",1189.85,False,6609,36,1.5,Not worth the price|Excellent quality|Battery lasts long
+P1351,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,1618.58,False,4571,153,4.8,Would buy again|Highly recommend|Poor customer service
+P1352,DSLR Camera,Cameras,"Compact, stylish, and powerful",153.26,False,8673,233,3.4,Battery lasts long|Highly recommend|Very satisfied
+P1353,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",1315.72,False,3591,342,3.2,Would buy again|Poor customer service|Excellent quality
+P1354,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",1259.05,True,632,500,4.4,Would buy again|Could be better|Battery lasts long
+P1355,Mirrorless Camera,Cameras,"Perfect for work, play, and everything in between",1601.1,False,3549,348,2.6,Not worth the price|Battery lasts long|Highly recommend
+P1356,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",169.97,True,3399,138,2.9,Great value for money|Amazing features|Would buy again
+P1357,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",696.35,False,3994,235,1.7,Excellent quality|Would buy again|Great value for money
+P1358,"OLED TV 65""",TVs,"Compact, stylish, and powerful",695.22,True,4595,28,3.1,Would buy again|Very satisfied|Battery lasts long
+P1359,Portable Bluetooth Speaker,Audio,Equipped with the latest technology,502.66,True,2852,302,2.2,Would buy again|Great value for money|Could be better
+P1360,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",465.71,True,1085,266,1.6,Great value for money|Not worth the price|Excellent quality
+P1361,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",1965.75,False,7069,353,2.7,Poor customer service|Could be better|Battery lasts long
+P1362,USB-C Hub,Computer Accessories,Equipped with the latest technology,1066.28,False,1750,165,2.2,Very satisfied|Poor customer service|Amazing features
+P1363,DSLR Camera,Cameras,User-friendly design and long battery life,763.14,False,4781,5,3.0,Very satisfied|Not worth the price|Excellent quality
+P1364,Soundbar with Subwoofer,Audio,"Compact, stylish, and powerful",518.74,False,9718,411,4.4,Poor customer service|Battery lasts long|Excellent quality
+P1365,Mirrorless Camera,Cameras,User-friendly design and long battery life,412.3,True,2794,386,3.4,Great value for money|Poor customer service|Excellent quality
+P1366,Budget Smartphone,Mobile Phones,"Compact, stylish, and powerful",790.49,True,872,464,1.8,Excellent quality|Very satisfied|Great value for money
+P1367,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",897.57,False,9041,310,3.6,Poor customer service|Highly recommend|Battery lasts long
+P1368,Network Switch,Networking,High performance and reliability for daily use,670.16,True,2895,219,3.8,Not worth the price|Battery lasts long|Amazing features
+P1369,Action Camera,Cameras,User-friendly design and long battery life,1104.33,False,6708,469,3.1,Excellent quality|Very satisfied|Highly recommend
+P1370,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",1561.49,True,8112,64,3.6,Poor customer service|Would buy again|Amazing features
+P1371,Smartphone 128GB,Mobile Phones,Equipped with the latest technology,1312.24,True,2174,2,3.9,Excellent quality|Could be better
+P1372,Smart Glasses,Wearables,User-friendly design and long battery life,1617.06,True,9353,48,1.8,Battery lasts long|Very satisfied|Would buy again
+P1373,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",1340.6,True,3320,382,2.9,Very satisfied|Battery lasts long|Not worth the price
+P1374,DSLR Camera,Cameras,Equipped with the latest technology,1966.53,True,361,88,3.1,Very satisfied|Amazing features|Excellent quality
+P1375,Network Switch,Networking,"Compact, stylish, and powerful",867.81,False,4177,19,2.5,Would buy again|Excellent quality|Very satisfied
+P1376,USB-C Hub,Computer Accessories,"Perfect for work, play, and everything in between",282.03,True,5216,173,3.3,Poor customer service|Not worth the price|Excellent quality
+P1377,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,970.12,False,1764,438,3.7,Poor customer service|Great value for money|Not worth the price
+P1378,Smart Glasses,Wearables,User-friendly design and long battery life,267.0,False,3336,47,3.5,Highly recommend|Very satisfied|Poor customer service
+P1379,Gaming Laptop 16GB RAM,Laptops,High performance and reliability for daily use,979.57,False,6010,188,3.7,Excellent quality|Not worth the price|Great value for money
+P1380,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",836.49,False,5477,89,2.1,Would buy again|Not worth the price|Battery lasts long
+P1381,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",257.51,True,6625,125,1.0,Great value for money|Poor customer service|Amazing features
+P1382,"Business Laptop 15""",Laptops,User-friendly design and long battery life,1912.55,False,7980,420,2.2,Could be better|Great value for money|Highly recommend
+P1383,Mirrorless Camera,Cameras,User-friendly design and long battery life,855.12,True,5713,413,4.4,Would buy again|Could be better|Not worth the price
+P1384,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,1486.99,True,785,280,3.2,Poor customer service|Would buy again|Great value for money
+P1385,Action Camera,Cameras,Equipped with the latest technology,1484.28,True,5912,189,2.7,Great value for money|Excellent quality|Could be better
+P1386,Portable Bluetooth Speaker,Audio,Equipped with the latest technology,1052.55,True,8666,267,1.4,Poor customer service|Amazing features|Excellent quality
+P1387,Mirrorless Camera,Cameras,Equipped with the latest technology,1066.52,False,3945,21,4.1,Would buy again|Poor customer service|Amazing features
+P1388,Soundbar with Subwoofer,Audio,"Compact, stylish, and powerful",530.6,True,5114,453,1.8,Battery lasts long|Poor customer service|Would buy again
+P1389,Budget Smartphone,Mobile Phones,"Compact, stylish, and powerful",1965.17,True,9102,223,3.1,Excellent quality|Not worth the price|Highly recommend
+P1390,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,645.63,False,2023,314,4.9,Poor customer service|Very satisfied|Battery lasts long
+P1391,DSLR Camera,Cameras,User-friendly design and long battery life,223.82,True,4469,344,4.3,Highly recommend|Poor customer service|Great value for money
+P1392,Robot Vacuum,Home Appliances,User-friendly design and long battery life,1451.93,True,369,370,1.1,Great value for money|Would buy again|Very satisfied
+P1393,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,1247.76,False,3668,143,4.2,Could be better|Battery lasts long|Excellent quality
+P1394,"Business Laptop 15""",Laptops,High performance and reliability for daily use,176.63,True,7006,219,1.2,Battery lasts long|Poor customer service|Could be better
+P1395,DSLR Camera,Cameras,High performance and reliability for daily use,362.89,False,5975,476,1.4,Poor customer service|Amazing features|Very satisfied
+P1396,Smart Microwave,Home Appliances,Equipped with the latest technology,812.2,False,3376,146,1.9,Highly recommend|Very satisfied|Battery lasts long
+P1397,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",357.02,True,8858,426,1.9,Highly recommend|Great value for money|Amazing features
+P1398,Action Camera,Cameras,Equipped with the latest technology,652.26,True,3138,73,2.1,Very satisfied|Not worth the price|Battery lasts long
+P1399,"4K UHD Smart TV 55""",TVs,"Compact, stylish, and powerful",1548.84,True,8672,132,4.4,Battery lasts long|Excellent quality|Great value for money
+P1400,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1179.51,True,8138,260,3.5,Not worth the price|Excellent quality|Could be better
+P1401,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",624.54,True,8324,204,3.5,Excellent quality|Could be better|Would buy again
+P1402,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",59.27,True,6055,345,4.1,Battery lasts long|Highly recommend|Poor customer service
+P1403,5G Android Phone,Mobile Phones,User-friendly design and long battery life,277.51,False,5601,417,3.1,Great value for money|Very satisfied|Battery lasts long
+P1404,Wireless Gaming Mouse,Gaming,"Compact, stylish, and powerful",834.67,False,5577,281,3.6,Not worth the price|Poor customer service|Very satisfied
+P1405,Smart Glasses,Wearables,Equipped with the latest technology,1087.26,False,3811,250,4.3,Highly recommend|Poor customer service|Great value for money
+P1406,Smartwatch with GPS,Wearables,Equipped with the latest technology,860.89,True,6983,451,3.5,Poor customer service|Highly recommend|Could be better
+P1407,Network Switch,Networking,User-friendly design and long battery life,22.93,False,3177,479,3.1,Very satisfied|Great value for money|Battery lasts long
+P1408,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",864.11,False,6788,367,3.3,Could be better|Not worth the price|Poor customer service
+P1409,Mechanical Gaming Keyboard,Gaming,User-friendly design and long battery life,196.0,False,7603,158,4.0,Very satisfied|Would buy again|Battery lasts long
+P1410,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",109.13,False,207,211,3.5,Not worth the price|Great value for money|Battery lasts long
+P1411,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1021.44,True,6177,206,1.8,Excellent quality|Highly recommend|Great value for money
+P1412,"OLED TV 65""",TVs,User-friendly design and long battery life,1571.98,False,464,24,2.8,Amazing features|Battery lasts long|Poor customer service
+P1413,Ergonomic Mouse,Computer Accessories,"Compact, stylish, and powerful",1212.91,True,857,372,2.2,Highly recommend|Amazing features|Not worth the price
+P1414,Soundbar with Subwoofer,Audio,"Compact, stylish, and powerful",537.62,True,6830,317,4.6,Great value for money|Would buy again|Poor customer service
+P1415,"Smart LED TV 43""",TVs,User-friendly design and long battery life,1787.18,True,3879,7,2.5,Could be better|Would buy again|Amazing features
+P1416,DSLR Camera,Cameras,High performance and reliability for daily use,377.5,True,7593,490,2.6,Could be better|Not worth the price|Amazing features
+P1417,Air Purifier,Home Appliances,Equipped with the latest technology,794.02,False,1781,12,3.2,Could be better|Very satisfied|Great value for money
+P1418,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",888.53,True,763,398,3.5,Would buy again|Could be better|Excellent quality
+P1419,USB-C Hub,Computer Accessories,User-friendly design and long battery life,1451.19,False,2428,267,1.3,Great value for money|Not worth the price|Excellent quality
+P1420,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,674.91,True,9398,8,3.5,Not worth the price|Poor customer service|Great value for money
+P1421,Wireless Gaming Mouse,Gaming,User-friendly design and long battery life,1046.36,False,5817,500,5.0,Great value for money|Poor customer service|Amazing features
+P1422,Action Camera,Cameras,"Compact, stylish, and powerful",1520.34,False,9184,436,1.0,Great value for money|Very satisfied|Not worth the price
+P1423,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,264.43,False,8113,324,2.9,Battery lasts long|Great value for money|Amazing features
+P1424,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",764.52,False,9363,107,4.3,Amazing features|Not worth the price|Poor customer service
+P1425,Action Camera,Cameras,High performance and reliability for daily use,125.22,True,3618,475,1.5,Not worth the price|Highly recommend|Great value for money
+P1426,Mechanical Gaming Keyboard,Gaming,User-friendly design and long battery life,1390.9,False,5027,420,1.4,Could be better|Not worth the price|Great value for money
+P1427,Air Purifier,Home Appliances,"Compact, stylish, and powerful",1804.96,False,9397,300,1.7,Very satisfied|Great value for money|Highly recommend
+P1428,Smart Glasses,Wearables,User-friendly design and long battery life,903.59,True,5576,326,3.5,Would buy again|Amazing features|Poor customer service
+P1429,Mirrorless Camera,Cameras,High performance and reliability for daily use,1025.65,True,7599,294,1.7,Very satisfied|Amazing features|Excellent quality
+P1430,Robot Vacuum,Home Appliances,High performance and reliability for daily use,447.85,True,5426,459,3.1,Battery lasts long|Great value for money|Very satisfied
+P1431,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",1445.69,True,4321,12,3.0,Could be better|Great value for money|Amazing features
+P1432,5G Android Phone,Mobile Phones,High performance and reliability for daily use,1149.47,False,3369,62,2.5,Excellent quality|Poor customer service|Highly recommend
+P1433,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",1575.54,False,6680,195,3.0,Amazing features|Very satisfied|Not worth the price
+P1434,Gaming Console,Gaming,Equipped with the latest technology,1967.56,True,6109,333,3.5,Great value for money|Amazing features|Poor customer service
+P1435,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1853.46,False,3298,70,1.5,Amazing features|Not worth the price|Great value for money
+P1436,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",700.18,True,1540,83,3.6,Highly recommend|Great value for money|Could be better
+P1437,Soundbar with Subwoofer,Audio,"Compact, stylish, and powerful",1382.34,False,8505,333,4.6,Amazing features|Great value for money|Very satisfied
+P1438,Smart Microwave,Home Appliances,"Perfect for work, play, and everything in between",1823.31,False,3325,404,4.9,Highly recommend|Battery lasts long|Very satisfied
+P1439,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",570.47,False,6064,252,1.6,Highly recommend|Would buy again|Poor customer service
+P1440,Wireless Noise Cancelling Headphones,Audio,"Perfect for work, play, and everything in between",124.46,False,5213,348,2.4,Very satisfied|Highly recommend|Could be better
+P1441,Smart Microwave,Home Appliances,High performance and reliability for daily use,245.84,False,4911,393,1.4,Amazing features|Would buy again|Not worth the price
+P1442,Smartwatch with GPS,Wearables,High performance and reliability for daily use,1046.89,False,5198,219,2.9,Excellent quality|Could be better|Very satisfied
+P1443,"OLED TV 65""",TVs,High performance and reliability for daily use,1848.86,False,3159,138,3.7,Excellent quality|Could be better|Great value for money
+P1444,Wireless Gaming Mouse,Gaming,Equipped with the latest technology,445.1,False,6482,409,1.9,Great value for money|Highly recommend|Amazing features
+P1445,Action Camera,Cameras,High performance and reliability for daily use,1458.39,False,8280,179,4.0,Not worth the price|Excellent quality|Poor customer service
+P1446,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,1168.39,True,9379,88,3.3,Amazing features|Great value for money|Battery lasts long
+P1447,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",1487.88,True,6346,484,1.5,Would buy again|Very satisfied|Amazing features
+P1448,Portable Bluetooth Speaker,Audio,User-friendly design and long battery life,217.35,False,9801,194,3.3,Very satisfied|Battery lasts long|Would buy again
+P1449,"Smart LED TV 43""",TVs,Equipped with the latest technology,1193.74,False,1776,494,2.7,Poor customer service|Not worth the price|Could be better
+P1450,Mirrorless Camera,Cameras,High performance and reliability for daily use,833.09,True,8453,322,2.3,Would buy again|Excellent quality|Poor customer service
+P1451,5G Android Phone,Mobile Phones,User-friendly design and long battery life,1702.36,True,1343,33,4.8,Very satisfied|Amazing features|Could be better
+P1452,Smartwatch with GPS,Wearables,User-friendly design and long battery life,160.16,True,9437,258,2.9,Poor customer service|Not worth the price|Highly recommend
+P1453,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1792.66,False,5852,455,1.8,Great value for money|Very satisfied|Battery lasts long
+P1454,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",1204.73,True,932,416,2.6,Excellent quality|Very satisfied|Not worth the price
+P1455,Mirrorless Camera,Cameras,"Perfect for work, play, and everything in between",32.54,False,2645,166,2.3,Not worth the price|Excellent quality|Poor customer service
+P1456,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",1484.19,True,1914,179,2.9,Poor customer service|Would buy again|Not worth the price
+P1457,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",491.83,True,778,53,3.7,Excellent quality|Battery lasts long|Highly recommend
+P1458,Robot Vacuum,Home Appliances,High performance and reliability for daily use,1636.72,False,3411,113,3.8,Very satisfied|Poor customer service|Could be better
+P1459,Fitness Tracker,Wearables,Equipped with the latest technology,1210.96,True,7668,217,2.1,Poor customer service|Highly recommend|Excellent quality
+P1460,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,50.15,True,6363,381,4.0,Would buy again|Highly recommend|Very satisfied
+P1461,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,369.9,False,304,476,3.3,Excellent quality|Not worth the price|Would buy again
+P1462,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",1125.72,True,2788,31,4.5,Could be better|Great value for money|Not worth the price
+P1463,DSLR Camera,Cameras,User-friendly design and long battery life,1390.25,True,2575,266,3.3,Excellent quality|Would buy again|Amazing features
+P1464,"4K UHD Smart TV 55""",TVs,User-friendly design and long battery life,1425.07,True,1084,262,3.3,Great value for money|Highly recommend|Not worth the price
+P1465,"4K UHD Smart TV 55""",TVs,User-friendly design and long battery life,906.6,False,1866,231,3.6,Would buy again|Battery lasts long|Highly recommend
+P1466,Wi-Fi 6 Router,Networking,"Perfect for work, play, and everything in between",398.33,True,7600,318,4.6,Battery lasts long|Amazing features|Great value for money
+P1467,Wireless Gaming Mouse,Gaming,"Compact, stylish, and powerful",1334.29,True,5149,215,3.9,Would buy again|Excellent quality|Highly recommend
+P1468,Action Camera,Cameras,User-friendly design and long battery life,155.6,False,7688,99,1.2,Excellent quality|Great value for money|Would buy again
+P1469,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",982.37,False,9983,319,2.1,Would buy again|Battery lasts long|Not worth the price
+P1470,"Smart LED TV 43""",TVs,User-friendly design and long battery life,99.14,False,8260,8,2.7,Battery lasts long|Could be better|Would buy again
+P1471,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",396.5,False,5125,456,1.7,Battery lasts long|Could be better|Excellent quality
+P1472,"Ultrabook 13""",Laptops,High performance and reliability for daily use,624.23,False,6682,31,3.6,Great value for money|Poor customer service|Amazing features
+P1473,Action Camera,Cameras,"Compact, stylish, and powerful",799.16,True,5727,263,5.0,Battery lasts long|Amazing features|Excellent quality
+P1474,"Ultrabook 13""",Laptops,User-friendly design and long battery life,420.76,True,7061,61,4.2,Great value for money|Very satisfied|Not worth the price
+P1475,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",1789.2,True,2017,263,4.0,Highly recommend|Would buy again|Excellent quality
+P1476,Smart Glasses,Wearables,Equipped with the latest technology,1676.27,True,1879,0,4.2,Would buy again
+P1477,Network Switch,Networking,High performance and reliability for daily use,586.8,True,2831,143,1.5,Highly recommend|Poor customer service|Battery lasts long
+P1478,Air Purifier,Home Appliances,High performance and reliability for daily use,1574.45,False,8777,403,3.8,Battery lasts long|Poor customer service|Would buy again
+P1479,Mechanical Gaming Keyboard,Gaming,"Perfect for work, play, and everything in between",971.11,True,5369,258,4.4,Amazing features|Great value for money|Highly recommend
+P1480,Smart Glasses,Wearables,High performance and reliability for daily use,62.8,False,6230,69,2.4,Not worth the price|Would buy again|Battery lasts long
+P1481,"Ultrabook 13""",Laptops,"Compact, stylish, and powerful",801.69,False,7989,292,3.3,Not worth the price|Amazing features|Very satisfied
+P1482,"Smart LED TV 43""",TVs,High performance and reliability for daily use,501.33,False,3533,426,3.5,Poor customer service|Highly recommend|Not worth the price
+P1483,Smart Microwave,Home Appliances,Equipped with the latest technology,1841.29,True,6261,350,4.5,Highly recommend|Poor customer service|Very satisfied
+P1484,"Ultrabook 13""",Laptops,Equipped with the latest technology,1899.42,True,4511,266,4.6,Very satisfied|Amazing features|Not worth the price
+P1485,Smart Glasses,Wearables,User-friendly design and long battery life,51.33,False,6706,6,3.5,Battery lasts long|Very satisfied|Great value for money
+P1486,Network Switch,Networking,Equipped with the latest technology,260.3,True,3052,442,2.8,Battery lasts long|Could be better|Would buy again
+P1487,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",836.8,True,6437,376,4.7,Not worth the price|Excellent quality|Could be better
+P1488,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",847.71,False,378,276,2.0,Very satisfied|Poor customer service|Excellent quality
+P1489,Mirrorless Camera,Cameras,"Perfect for work, play, and everything in between",127.45,True,3421,349,1.7,Not worth the price|Could be better|Would buy again
+P1490,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",1224.96,False,7802,428,3.5,Not worth the price|Could be better|Very satisfied
+P1491,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",1939.97,False,4358,476,4.5,Excellent quality|Great value for money|Very satisfied
+P1492,Smart Glasses,Wearables,"Compact, stylish, and powerful",1629.2,False,1558,48,1.5,Battery lasts long|Could be better|Poor customer service
+P1493,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",1891.25,False,8123,1,1.6,Not worth the price
+P1494,USB-C Hub,Computer Accessories,Equipped with the latest technology,343.0,True,1079,125,1.4,Battery lasts long|Excellent quality|Great value for money
+P1495,DSLR Camera,Cameras,"Compact, stylish, and powerful",744.3,True,6776,246,4.7,Amazing features|Very satisfied|Excellent quality
+P1496,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",692.65,True,4353,464,3.8,Would buy again|Excellent quality|Amazing features
+P1497,Action Camera,Cameras,High performance and reliability for daily use,1451.87,True,6574,485,3.8,Poor customer service|Not worth the price|Excellent quality
+P1498,Action Camera,Cameras,"Perfect for work, play, and everything in between",1622.6,True,235,365,3.5,Great value for money|Would buy again|Excellent quality
+P1499,Fitness Tracker,Wearables,Equipped with the latest technology,140.82,False,3955,191,3.8,Very satisfied|Great value for money|Not worth the price
+P1500,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",495.91,False,1721,459,3.6,Amazing features|Great value for money|Poor customer service
+P1501,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",90.14,False,9719,454,3.7,Very satisfied|Great value for money|Could be better
+P1502,"OLED TV 65""",TVs,High performance and reliability for daily use,270.12,False,9125,387,1.2,Excellent quality|Amazing features|Great value for money
+P1503,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",607.66,True,7243,439,1.8,Could be better|Excellent quality|Very satisfied
+P1504,Gaming Laptop 16GB RAM,Laptops,Equipped with the latest technology,1899.31,False,1807,49,1.3,Great value for money|Could be better|Battery lasts long
+P1505,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,1366.26,False,8707,301,2.0,Poor customer service|Excellent quality|Would buy again
+P1506,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,767.84,True,8050,112,2.6,Poor customer service|Amazing features|Would buy again
+P1507,Robot Vacuum,Home Appliances,"Perfect for work, play, and everything in between",1006.52,True,4214,96,3.0,Could be better|Battery lasts long|Amazing features
+P1508,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,1077.24,True,934,191,3.3,Very satisfied|Poor customer service|Not worth the price
+P1509,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",553.73,False,5307,387,3.2,Not worth the price|Amazing features|Would buy again
+P1510,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",321.58,True,8798,193,2.2,Amazing features|Highly recommend|Not worth the price
+P1511,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,161.81,True,8262,27,4.9,Not worth the price|Amazing features|Could be better
+P1512,Mirrorless Camera,Cameras,Equipped with the latest technology,918.06,False,3166,87,4.4,Great value for money|Battery lasts long|Poor customer service
+P1513,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",136.42,True,9867,130,5.0,Highly recommend|Battery lasts long|Excellent quality
+P1514,Smart Glasses,Wearables,User-friendly design and long battery life,1100.62,False,2186,266,2.4,Could be better|Battery lasts long|Highly recommend
+P1515,Wireless Gaming Mouse,Gaming,Equipped with the latest technology,254.0,False,6802,420,1.7,Not worth the price|Excellent quality|Amazing features
+P1516,Smart Microwave,Home Appliances,High performance and reliability for daily use,1915.23,False,5418,415,3.5,Battery lasts long|Amazing features|Excellent quality
+P1517,Mesh Wi-Fi System,Networking,User-friendly design and long battery life,1402.34,True,3134,466,3.8,Amazing features|Not worth the price|Great value for money
+P1518,Gaming Laptop 16GB RAM,Laptops,"Perfect for work, play, and everything in between",1991.88,False,2934,252,2.5,Excellent quality|Could be better|Highly recommend
+P1519,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,533.67,True,8619,64,2.0,Very satisfied|Great value for money|Highly recommend
+P1520,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,345.74,False,7684,201,4.7,Battery lasts long|Would buy again|Excellent quality
+P1521,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",106.12,False,5459,247,3.4,Not worth the price|Amazing features|Battery lasts long
+P1522,Network Switch,Networking,"Perfect for work, play, and everything in between",1449.81,True,3701,472,1.5,Excellent quality|Would buy again|Battery lasts long
+P1523,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,1329.08,True,4386,310,1.7,Great value for money|Excellent quality|Poor customer service
+P1524,Soundbar with Subwoofer,Audio,User-friendly design and long battery life,1225.46,False,3482,12,1.8,Excellent quality|Would buy again|Battery lasts long
+P1525,Soundbar with Subwoofer,Audio,High performance and reliability for daily use,1205.32,True,6741,441,4.8,Battery lasts long|Great value for money|Very satisfied
+P1526,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",1741.84,True,690,247,1.9,Great value for money|Very satisfied|Not worth the price
+P1527,USB-C Hub,Computer Accessories,High performance and reliability for daily use,1593.01,True,6611,493,2.7,Battery lasts long|Poor customer service|Very satisfied
+P1528,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,51.84,True,849,149,2.9,Poor customer service|Excellent quality|Not worth the price
+P1529,5G Android Phone,Mobile Phones,User-friendly design and long battery life,1623.32,False,2633,472,2.6,Would buy again|Amazing features|Could be better
+P1530,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",570.48,False,1712,419,4.4,Could be better|Very satisfied|Amazing features
+P1531,5G Android Phone,Mobile Phones,Equipped with the latest technology,878.59,False,3371,383,3.9,Very satisfied|Highly recommend|Battery lasts long
+P1532,Wi-Fi 6 Router,Networking,Equipped with the latest technology,600.66,False,2409,308,1.7,Highly recommend|Poor customer service|Great value for money
+P1533,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,1057.37,False,2381,371,1.9,Could be better|Excellent quality|Poor customer service
+P1534,Fitness Tracker,Wearables,Equipped with the latest technology,1794.18,False,6402,230,3.1,Would buy again|Excellent quality|Highly recommend
+P1535,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",163.47,True,1051,375,4.6,Could be better|Poor customer service|Great value for money
+P1536,Portable Bluetooth Speaker,Audio,User-friendly design and long battery life,1273.29,False,7134,292,4.0,Excellent quality|Could be better|Very satisfied
+P1537,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,326.93,False,8705,376,4.7,Highly recommend|Poor customer service|Very satisfied
+P1538,Budget Smartphone,Mobile Phones,User-friendly design and long battery life,1881.3,False,9538,357,3.4,Excellent quality|Great value for money|Very satisfied
+P1539,Smartwatch with GPS,Wearables,High performance and reliability for daily use,404.31,False,5567,65,4.1,Battery lasts long|Poor customer service|Amazing features
+P1540,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",1110.11,True,6580,321,2.0,Would buy again|Amazing features|Very satisfied
+P1541,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",1879.12,True,2307,404,2.0,Not worth the price|Battery lasts long|Could be better
+P1542,Soundbar with Subwoofer,Audio,Equipped with the latest technology,1406.94,True,8209,217,3.6,Very satisfied|Great value for money|Not worth the price
+P1543,"4K UHD Smart TV 55""",TVs,"Compact, stylish, and powerful",1343.32,False,592,377,3.9,Very satisfied|Amazing features|Battery lasts long
+P1544,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",1205.43,True,5092,100,3.1,Amazing features|Great value for money|Poor customer service
+P1545,Mesh Wi-Fi System,Networking,Equipped with the latest technology,1457.25,True,5443,223,4.1,Could be better|Highly recommend|Poor customer service
+P1546,Gaming Laptop 16GB RAM,Laptops,High performance and reliability for daily use,1553.71,False,9154,350,2.2,Amazing features|Would buy again|Very satisfied
+P1547,"Smart LED TV 43""",TVs,"Compact, stylish, and powerful",1327.39,False,6976,412,4.5,Battery lasts long|Very satisfied|Would buy again
+P1548,Ergonomic Mouse,Computer Accessories,"Perfect for work, play, and everything in between",1328.72,True,3085,77,4.0,Great value for money|Very satisfied|Highly recommend
+P1549,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",337.05,False,6654,238,4.8,Great value for money|Would buy again|Amazing features
+P1550,Smartphone 128GB,Mobile Phones,User-friendly design and long battery life,1483.65,False,4111,117,3.7,Amazing features|Excellent quality|Very satisfied
+P1551,Soundbar with Subwoofer,Audio,High performance and reliability for daily use,393.36,True,9587,93,3.4,Poor customer service|Could be better|Very satisfied
+P1552,Mirrorless Camera,Cameras,User-friendly design and long battery life,271.63,True,4753,54,4.0,Would buy again|Great value for money|Poor customer service
+P1553,Wireless Noise Cancelling Headphones,Audio,"Perfect for work, play, and everything in between",475.64,True,2566,278,2.2,Amazing features|Excellent quality|Great value for money
+P1554,DSLR Camera,Cameras,Equipped with the latest technology,1427.08,False,1326,157,4.4,Battery lasts long|Not worth the price|Great value for money
+P1555,DSLR Camera,Cameras,"Compact, stylish, and powerful",1543.08,False,5255,387,2.0,Battery lasts long|Great value for money|Not worth the price
+P1556,"Business Laptop 15""",Laptops,User-friendly design and long battery life,1155.05,True,1878,60,4.6,Highly recommend|Poor customer service|Excellent quality
+P1557,"4K UHD Smart TV 55""",TVs,User-friendly design and long battery life,1414.52,True,9966,52,3.0,Could be better|Great value for money|Excellent quality
+P1558,Fitness Tracker,Wearables,High performance and reliability for daily use,356.9,False,3013,113,1.2,Highly recommend|Great value for money|Battery lasts long
+P1559,Smart Microwave,Home Appliances,"Perfect for work, play, and everything in between",1957.42,False,2665,410,1.6,Poor customer service|Excellent quality|Could be better
+P1560,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,1641.18,False,5275,488,3.0,Highly recommend|Battery lasts long|Could be better
+P1561,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",751.34,False,8145,419,4.5,Highly recommend|Would buy again|Not worth the price
+P1562,Smartphone 128GB,Mobile Phones,High performance and reliability for daily use,798.94,False,4734,84,2.5,Not worth the price|Poor customer service|Battery lasts long
+P1563,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,1761.27,False,4082,97,4.3,Battery lasts long|Highly recommend|Could be better
+P1564,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",1156.86,False,9641,102,3.6,Very satisfied|Could be better|Great value for money
+P1565,5G Android Phone,Mobile Phones,High performance and reliability for daily use,1459.35,False,6504,246,2.9,Could be better|Battery lasts long|Highly recommend
+P1566,Soundbar with Subwoofer,Audio,"Compact, stylish, and powerful",611.07,False,3139,255,4.7,Would buy again|Highly recommend|Very satisfied
+P1567,Wireless Gaming Mouse,Gaming,"Perfect for work, play, and everything in between",537.61,False,602,369,3.9,Amazing features|Would buy again|Could be better
+P1568,"Smart LED TV 43""",TVs,High performance and reliability for daily use,310.12,False,6176,388,3.7,Excellent quality|Great value for money|Battery lasts long
+P1569,Mesh Wi-Fi System,Networking,"Compact, stylish, and powerful",537.76,False,4484,463,4.6,Highly recommend|Could be better|Would buy again
+P1570,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,643.01,True,6183,430,1.4,Very satisfied|Battery lasts long|Would buy again
+P1571,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",1507.49,True,9884,454,4.2,Not worth the price|Great value for money|Would buy again
+P1572,Smartphone 128GB,Mobile Phones,User-friendly design and long battery life,1159.97,False,253,496,2.4,Battery lasts long|Amazing features|Great value for money
+P1573,Gaming Console,Gaming,Equipped with the latest technology,991.72,False,235,403,1.2,Poor customer service|Would buy again|Very satisfied
+P1574,Ergonomic Mouse,Computer Accessories,"Perfect for work, play, and everything in between",53.31,False,7631,230,1.1,Great value for money|Excellent quality|Would buy again
+P1575,Mesh Wi-Fi System,Networking,Equipped with the latest technology,1841.18,True,8631,218,1.4,Very satisfied|Poor customer service|Highly recommend
+P1576,Wireless Noise Cancelling Headphones,Audio,High performance and reliability for daily use,896.43,False,5439,296,3.0,Amazing features|Very satisfied|Not worth the price
+P1577,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",165.55,False,4931,455,3.6,Battery lasts long|Highly recommend|Excellent quality
+P1578,Mechanical Gaming Keyboard,Gaming,User-friendly design and long battery life,1889.57,False,1013,76,3.8,Amazing features|Highly recommend|Excellent quality
+P1579,Gaming Console,Gaming,High performance and reliability for daily use,1056.18,True,8226,32,1.7,Would buy again|Could be better|Battery lasts long
+P1580,5G Android Phone,Mobile Phones,Equipped with the latest technology,33.57,False,5566,244,1.4,Battery lasts long|Poor customer service|Highly recommend
+P1581,Smart Glasses,Wearables,User-friendly design and long battery life,1264.11,True,4035,108,2.0,Amazing features|Not worth the price|Would buy again
+P1582,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",79.79,False,9028,313,2.2,Would buy again|Highly recommend|Battery lasts long
+P1583,"Business Laptop 15""",Laptops,"Compact, stylish, and powerful",1019.31,True,1749,305,1.9,Not worth the price|Battery lasts long|Highly recommend
+P1584,Smartwatch with GPS,Wearables,High performance and reliability for daily use,384.2,False,1539,415,2.7,Highly recommend|Would buy again|Battery lasts long
+P1585,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",658.76,True,9229,92,1.1,Highly recommend|Would buy again|Great value for money
+P1586,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",1485.1,False,4703,220,1.2,Great value for money|Battery lasts long|Amazing features
+P1587,Mirrorless Camera,Cameras,Equipped with the latest technology,1997.91,True,984,110,3.8,Very satisfied|Poor customer service|Would buy again
+P1588,5G Android Phone,Mobile Phones,High performance and reliability for daily use,1547.34,False,2808,100,4.3,Battery lasts long|Excellent quality|Amazing features
+P1589,Fitness Tracker,Wearables,"Compact, stylish, and powerful",1886.4,False,4187,1,4.4,Battery lasts long
+P1590,"Smart LED TV 43""",TVs,Equipped with the latest technology,1226.52,True,9056,220,4.4,Highly recommend|Great value for money|Could be better
+P1591,Budget Smartphone,Mobile Phones,Equipped with the latest technology,502.73,True,3403,295,2.3,Great value for money|Excellent quality|Highly recommend
+P1592,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",426.81,True,739,135,2.7,Amazing features|Battery lasts long|Poor customer service
+P1593,USB-C Hub,Computer Accessories,User-friendly design and long battery life,1959.89,True,490,282,3.8,Highly recommend|Battery lasts long|Would buy again
+P1594,Smartwatch with GPS,Wearables,High performance and reliability for daily use,1343.86,True,9784,500,2.7,Great value for money|Excellent quality|Could be better
+P1595,Wi-Fi 6 Router,Networking,Equipped with the latest technology,448.87,True,4307,150,4.6,Highly recommend|Great value for money|Battery lasts long
+P1596,DSLR Camera,Cameras,High performance and reliability for daily use,1798.65,False,9821,240,1.1,Not worth the price|Could be better|Highly recommend
+P1597,Gaming Laptop 16GB RAM,Laptops,"Perfect for work, play, and everything in between",1425.16,False,9158,447,3.3,Excellent quality|Poor customer service|Amazing features
+P1598,Wireless Gaming Mouse,Gaming,User-friendly design and long battery life,152.73,True,8016,227,1.5,Poor customer service|Great value for money|Excellent quality
+P1599,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,1981.19,True,5504,254,4.1,Excellent quality|Not worth the price|Poor customer service
+P1600,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",930.1,False,8195,448,4.6,Amazing features|Not worth the price|Could be better
+P1601,Air Purifier,Home Appliances,High performance and reliability for daily use,1942.91,False,6514,99,4.1,Highly recommend|Poor customer service|Battery lasts long
+P1602,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,1497.65,True,3287,248,4.7,Highly recommend|Battery lasts long|Great value for money
+P1603,Smart Glasses,Wearables,"Perfect for work, play, and everything in between",1093.34,True,9476,244,3.4,Very satisfied|Not worth the price|Battery lasts long
+P1604,Smart Microwave,Home Appliances,High performance and reliability for daily use,873.98,True,2354,291,4.2,Poor customer service|Great value for money|Would buy again
+P1605,"OLED TV 65""",TVs,"Perfect for work, play, and everything in between",937.01,True,7567,415,3.5,Amazing features|Very satisfied|Would buy again
+P1606,Robot Vacuum,Home Appliances,"Perfect for work, play, and everything in between",1376.39,True,8063,368,4.7,Highly recommend|Could be better|Very satisfied
+P1607,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",1108.13,True,6241,351,1.1,Battery lasts long|Very satisfied|Highly recommend
+P1608,Air Purifier,Home Appliances,"Compact, stylish, and powerful",572.88,True,6285,308,2.6,Great value for money|Battery lasts long|Highly recommend
+P1609,"OLED TV 65""",TVs,"Compact, stylish, and powerful",834.62,False,2134,410,3.3,Excellent quality|Amazing features|Not worth the price
+P1610,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",839.54,True,3889,72,4.8,Could be better|Amazing features|Very satisfied
+P1611,"Business Laptop 15""",Laptops,High performance and reliability for daily use,62.56,False,4573,317,2.0,Poor customer service|Very satisfied|Would buy again
+P1612,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",859.61,True,8617,184,3.5,Poor customer service|Excellent quality|Would buy again
+P1613,"Smart LED TV 43""",TVs,"Compact, stylish, and powerful",1392.11,True,8364,304,2.4,Battery lasts long|Would buy again|Amazing features
+P1614,USB-C Hub,Computer Accessories,High performance and reliability for daily use,604.82,False,4391,154,2.7,Not worth the price|Excellent quality|Highly recommend
+P1615,Wi-Fi 6 Router,Networking,High performance and reliability for daily use,1254.57,True,3052,323,3.9,Highly recommend|Great value for money|Not worth the price
+P1616,Smartwatch with GPS,Wearables,User-friendly design and long battery life,1584.23,False,2334,487,1.6,Would buy again|Very satisfied|Not worth the price
+P1617,"OLED TV 65""",TVs,Equipped with the latest technology,1625.56,False,2554,489,4.8,Highly recommend|Very satisfied|Could be better
+P1618,Wireless Noise Cancelling Headphones,Audio,Equipped with the latest technology,712.44,True,3353,492,4.4,Highly recommend|Battery lasts long|Poor customer service
+P1619,Action Camera,Cameras,"Perfect for work, play, and everything in between",1982.38,False,288,198,2.3,Great value for money|Very satisfied|Not worth the price
+P1620,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",390.33,True,3607,128,3.1,Battery lasts long|Excellent quality|Would buy again
+P1621,Smartphone 128GB,Mobile Phones,"Perfect for work, play, and everything in between",1466.57,False,6605,169,2.6,Battery lasts long|Highly recommend|Great value for money
+P1622,Wi-Fi 6 Router,Networking,High performance and reliability for daily use,46.26,True,2145,371,3.7,Could be better|Battery lasts long|Not worth the price
+P1623,Wireless Gaming Mouse,Gaming,"Compact, stylish, and powerful",208.13,True,9629,468,4.5,Poor customer service|Amazing features|Very satisfied
+P1624,Gaming Console,Gaming,"Compact, stylish, and powerful",1244.5,True,4550,182,4.1,Poor customer service|Amazing features|Not worth the price
+P1625,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,123.6,False,7817,162,2.6,Could be better|Battery lasts long|Very satisfied
+P1626,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",613.57,False,5471,130,3.2,Great value for money|Very satisfied|Would buy again
+P1627,Fitness Tracker,Wearables,Equipped with the latest technology,267.65,True,6323,157,3.3,Very satisfied|Great value for money|Poor customer service
+P1628,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",31.47,False,3880,415,2.8,Would buy again|Battery lasts long|Could be better
+P1629,Air Purifier,Home Appliances,High performance and reliability for daily use,114.43,False,9503,363,3.8,Very satisfied|Poor customer service|Highly recommend
+P1630,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,1311.29,False,9247,350,3.1,Great value for money|Not worth the price|Poor customer service
+P1631,Mechanical Gaming Keyboard,Gaming,"Perfect for work, play, and everything in between",1670.1,False,6881,328,1.6,Great value for money|Excellent quality|Battery lasts long
+P1632,DSLR Camera,Cameras,User-friendly design and long battery life,335.96,True,9069,425,3.2,Highly recommend|Very satisfied|Not worth the price
+P1633,Smartwatch with GPS,Wearables,User-friendly design and long battery life,841.4,True,6404,281,3.5,Poor customer service|Great value for money|Would buy again
+P1634,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,1461.42,True,2687,20,2.8,Poor customer service|Amazing features|Highly recommend
+P1635,Network Switch,Networking,User-friendly design and long battery life,1044.13,True,8829,219,4.1,Highly recommend|Amazing features|Very satisfied
+P1636,Robot Vacuum,Home Appliances,"Perfect for work, play, and everything in between",1262.64,True,3994,499,4.9,Highly recommend|Great value for money|Very satisfied
+P1637,Air Purifier,Home Appliances,High performance and reliability for daily use,1960.44,True,145,243,1.4,Would buy again|Amazing features|Great value for money
+P1638,External SSD 1TB,Computer Accessories,Equipped with the latest technology,1075.27,False,4580,428,4.1,Poor customer service|Highly recommend|Could be better
+P1639,Mirrorless Camera,Cameras,High performance and reliability for daily use,1250.14,False,3368,454,3.5,Not worth the price|Great value for money|Poor customer service
+P1640,Network Switch,Networking,"Compact, stylish, and powerful",398.89,True,3694,47,3.6,Excellent quality|Great value for money|Battery lasts long
+P1641,Smart Microwave,Home Appliances,"Perfect for work, play, and everything in between",423.74,False,8057,119,3.7,Amazing features|Battery lasts long|Would buy again
+P1642,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,1697.71,False,6118,208,3.6,Very satisfied|Could be better|Battery lasts long
+P1643,Action Camera,Cameras,High performance and reliability for daily use,1883.08,False,1694,67,1.1,Great value for money|Poor customer service|Battery lasts long
+P1644,"4K UHD Smart TV 55""",TVs,High performance and reliability for daily use,1922.96,True,9273,417,1.7,Highly recommend|Very satisfied|Great value for money
+P1645,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",1190.09,True,7374,315,2.0,Would buy again|Amazing features|Excellent quality
+P1646,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,128.03,True,9965,7,2.6,Excellent quality|Battery lasts long|Very satisfied
+P1647,"Business Laptop 15""",Laptops,Equipped with the latest technology,494.34,True,8731,67,4.7,Poor customer service|Amazing features|Battery lasts long
+P1648,"OLED TV 65""",TVs,Equipped with the latest technology,1557.22,False,5132,439,4.1,Poor customer service|Highly recommend|Could be better
+P1649,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",350.38,True,7830,248,4.3,Not worth the price|Highly recommend|Amazing features
+P1650,DSLR Camera,Cameras,"Compact, stylish, and powerful",376.39,True,1993,263,1.2,Not worth the price|Amazing features|Great value for money
+P1651,Smart Microwave,Home Appliances,"Perfect for work, play, and everything in between",777.51,True,5388,62,2.0,Battery lasts long|Could be better|Poor customer service
+P1652,5G Android Phone,Mobile Phones,User-friendly design and long battery life,1522.9,False,7746,458,3.9,Would buy again|Excellent quality|Could be better
+P1653,Gaming Console,Gaming,User-friendly design and long battery life,1975.35,True,7190,331,2.4,Battery lasts long|Highly recommend|Poor customer service
+P1654,DSLR Camera,Cameras,Equipped with the latest technology,64.0,False,9988,401,3.0,Battery lasts long|Highly recommend|Poor customer service
+P1655,Gaming Console,Gaming,"Perfect for work, play, and everything in between",702.0,False,2197,466,2.0,Very satisfied|Battery lasts long|Poor customer service
+P1656,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",1012.06,False,5025,387,3.0,Not worth the price|Amazing features|Poor customer service
+P1657,External SSD 1TB,Computer Accessories,Equipped with the latest technology,1846.41,False,3686,280,1.3,Great value for money|Would buy again|Not worth the price
+P1658,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,1020.39,True,5634,328,4.8,Highly recommend|Not worth the price|Great value for money
+P1659,Action Camera,Cameras,User-friendly design and long battery life,75.72,True,3937,86,4.4,Poor customer service|Could be better|Very satisfied
+P1660,Gaming Console,Gaming,"Compact, stylish, and powerful",1600.44,True,8036,92,4.8,Not worth the price|Excellent quality|Could be better
+P1661,Smartwatch with GPS,Wearables,Equipped with the latest technology,124.94,True,2840,335,2.4,Highly recommend|Battery lasts long|Amazing features
+P1662,DSLR Camera,Cameras,High performance and reliability for daily use,1850.12,True,4689,436,4.9,Great value for money|Excellent quality|Not worth the price
+P1663,Smartwatch with GPS,Wearables,High performance and reliability for daily use,1068.72,False,7493,380,4.6,Very satisfied|Battery lasts long|Highly recommend
+P1664,Portable Bluetooth Speaker,Audio,User-friendly design and long battery life,1511.75,False,4680,115,3.0,Not worth the price|Amazing features|Very satisfied
+P1665,Mirrorless Camera,Cameras,User-friendly design and long battery life,262.82,False,6194,201,4.8,Could be better|Great value for money|Would buy again
+P1666,Smart Microwave,Home Appliances,User-friendly design and long battery life,1049.1,False,723,490,3.5,Amazing features|Excellent quality|Great value for money
+P1667,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",880.42,False,7732,371,2.7,Great value for money|Very satisfied|Battery lasts long
+P1668,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",1912.33,False,2818,297,2.3,Not worth the price|Battery lasts long|Highly recommend
+P1669,USB-C Hub,Computer Accessories,Equipped with the latest technology,1630.84,True,5922,405,2.3,Would buy again|Amazing features|Very satisfied
+P1670,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",1503.33,True,5357,358,3.9,Highly recommend|Could be better|Very satisfied
+P1671,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",531.24,False,6956,331,3.4,Great value for money|Highly recommend|Battery lasts long
+P1672,Portable Bluetooth Speaker,Audio,High performance and reliability for daily use,1601.37,False,2779,356,2.7,Great value for money|Battery lasts long|Not worth the price
+P1673,Mechanical Gaming Keyboard,Gaming,"Perfect for work, play, and everything in between",1008.53,True,7945,199,1.5,Would buy again|Could be better|Very satisfied
+P1674,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",955.46,False,9855,58,4.6,Excellent quality|Great value for money|Amazing features
+P1675,Action Camera,Cameras,"Compact, stylish, and powerful",132.93,False,2009,247,3.5,Not worth the price|Would buy again|Highly recommend
+P1676,Smart Microwave,Home Appliances,High performance and reliability for daily use,964.27,False,9935,42,3.8,Amazing features|Could be better|Highly recommend
+P1677,"Smart LED TV 43""",TVs,Equipped with the latest technology,370.53,True,8258,355,3.6,Would buy again|Highly recommend|Battery lasts long
+P1678,"OLED TV 65""",TVs,"Compact, stylish, and powerful",469.09,False,1934,65,4.9,Highly recommend|Great value for money|Would buy again
+P1679,Gaming Laptop 16GB RAM,Laptops,"Perfect for work, play, and everything in between",1845.94,True,9200,53,1.5,Poor customer service|Could be better|Very satisfied
+P1680,Mirrorless Camera,Cameras,User-friendly design and long battery life,1530.71,False,3945,375,2.6,Poor customer service|Not worth the price|Highly recommend
+P1681,Mirrorless Camera,Cameras,Equipped with the latest technology,1798.82,True,3030,320,3.7,Highly recommend|Great value for money|Would buy again
+P1682,Mirrorless Camera,Cameras,High performance and reliability for daily use,1821.19,False,6003,396,1.0,Great value for money|Not worth the price|Would buy again
+P1683,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",1553.47,False,6572,409,4.5,Would buy again|Poor customer service|Very satisfied
+P1684,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,133.27,True,825,236,4.5,Amazing features|Would buy again|Poor customer service
+P1685,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,403.36,True,6255,434,4.2,Excellent quality|Very satisfied|Great value for money
+P1686,Ergonomic Mouse,Computer Accessories,High performance and reliability for daily use,1404.52,True,7249,102,3.6,Poor customer service|Amazing features|Great value for money
+P1687,Mirrorless Camera,Cameras,Equipped with the latest technology,31.88,True,8065,5,2.7,Highly recommend|Battery lasts long|Amazing features
+P1688,Mirrorless Camera,Cameras,High performance and reliability for daily use,550.0,True,2699,393,3.5,Battery lasts long|Poor customer service|Could be better
+P1689,External SSD 1TB,Computer Accessories,Equipped with the latest technology,1308.7,True,9070,139,2.1,Excellent quality|Would buy again|Could be better
+P1690,"OLED TV 65""",TVs,High performance and reliability for daily use,725.08,True,6601,343,1.7,Excellent quality|Battery lasts long|Highly recommend
+P1691,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",563.69,True,2787,165,4.5,Would buy again|Very satisfied|Battery lasts long
+P1692,"Business Laptop 15""",Laptops,Equipped with the latest technology,1013.52,False,5574,310,3.7,Poor customer service|Would buy again|Could be better
+P1693,Soundbar with Subwoofer,Audio,High performance and reliability for daily use,248.2,True,1455,52,1.1,Not worth the price|Very satisfied|Could be better
+P1694,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,1406.0,True,3810,458,2.7,Battery lasts long|Could be better|Great value for money
+P1695,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",1112.54,True,2959,397,3.8,Amazing features|Could be better|Great value for money
+P1696,Smartwatch with GPS,Wearables,High performance and reliability for daily use,1871.52,True,6000,203,3.9,Excellent quality|Could be better|Not worth the price
+P1697,Fitness Tracker,Wearables,High performance and reliability for daily use,1594.04,False,8581,283,2.4,Excellent quality|Highly recommend|Very satisfied
+P1698,Wireless Noise Cancelling Headphones,Audio,"Perfect for work, play, and everything in between",839.46,False,7143,203,2.8,Very satisfied|Would buy again|Not worth the price
+P1699,"Business Laptop 15""",Laptops,User-friendly design and long battery life,503.31,True,5118,172,1.1,Excellent quality|Battery lasts long|Highly recommend
+P1700,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",1392.44,True,2238,314,2.8,Poor customer service|Great value for money|Not worth the price
+P1701,Smart Microwave,Home Appliances,Equipped with the latest technology,929.72,False,6041,39,4.8,Could be better|Battery lasts long|Very satisfied
+P1702,Network Switch,Networking,High performance and reliability for daily use,991.49,True,784,76,1.2,Battery lasts long|Amazing features|Great value for money
+P1703,Portable Bluetooth Speaker,Audio,"Compact, stylish, and powerful",1416.99,False,3457,299,3.9,Excellent quality|Not worth the price|Would buy again
+P1704,"Business Laptop 15""",Laptops,"Compact, stylish, and powerful",1791.07,False,5654,324,2.9,Not worth the price|Poor customer service|Would buy again
+P1705,Robot Vacuum,Home Appliances,"Perfect for work, play, and everything in between",1039.89,False,105,464,2.6,Very satisfied|Poor customer service|Highly recommend
+P1706,"OLED TV 65""",TVs,High performance and reliability for daily use,138.0,True,552,215,1.6,Battery lasts long|Highly recommend|Excellent quality
+P1707,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,625.51,False,220,59,4.9,Great value for money|Very satisfied|Poor customer service
+P1708,USB-C Hub,Computer Accessories,"Perfect for work, play, and everything in between",1210.56,False,8087,471,3.1,Amazing features|Very satisfied|Would buy again
+P1709,Wi-Fi 6 Router,Networking,Equipped with the latest technology,967.6,False,1298,480,3.6,Excellent quality|Poor customer service|Highly recommend
+P1710,"Business Laptop 15""",Laptops,"Perfect for work, play, and everything in between",90.95,True,9505,407,2.1,Highly recommend|Great value for money|Could be better
+P1711,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",38.44,True,2710,278,4.5,Could be better|Amazing features|Very satisfied
+P1712,Gaming Console,Gaming,High performance and reliability for daily use,443.56,True,1599,28,2.6,Would buy again|Highly recommend|Very satisfied
+P1713,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",1275.74,False,7584,410,4.3,Great value for money|Very satisfied|Not worth the price
+P1714,"Business Laptop 15""",Laptops,Equipped with the latest technology,891.33,False,1977,489,1.4,Poor customer service|Great value for money|Would buy again
+P1715,Budget Smartphone,Mobile Phones,"Compact, stylish, and powerful",1071.69,True,1870,212,1.7,Very satisfied|Could be better|Battery lasts long
+P1716,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",298.16,True,2715,85,3.4,Great value for money|Battery lasts long|Could be better
+P1717,Portable Bluetooth Speaker,Audio,High performance and reliability for daily use,293.58,False,3367,221,3.5,Not worth the price|Would buy again|Highly recommend
+P1718,Action Camera,Cameras,User-friendly design and long battery life,225.37,True,2298,425,4.8,Could be better|Excellent quality|Would buy again
+P1719,Wireless Noise Cancelling Headphones,Audio,High performance and reliability for daily use,130.29,True,6784,486,4.3,Battery lasts long|Could be better|Highly recommend
+P1720,Smartphone 128GB,Mobile Phones,Equipped with the latest technology,1243.22,False,1820,251,2.6,Excellent quality|Poor customer service|Battery lasts long
+P1721,Smartphone 128GB,Mobile Phones,"Perfect for work, play, and everything in between",154.38,False,1864,352,1.6,Battery lasts long|Amazing features|Poor customer service
+P1722,Action Camera,Cameras,"Compact, stylish, and powerful",108.7,True,7527,17,3.6,Great value for money|Would buy again|Amazing features
+P1723,"Ultrabook 13""",Laptops,Equipped with the latest technology,1918.31,False,5213,483,4.1,Poor customer service|Very satisfied|Would buy again
+P1724,Mesh Wi-Fi System,Networking,"Compact, stylish, and powerful",1636.21,False,3834,229,4.6,Poor customer service|Would buy again|Could be better
+P1725,USB-C Hub,Computer Accessories,High performance and reliability for daily use,1314.84,True,7662,11,1.3,Could be better|Amazing features|Excellent quality
+P1726,Mesh Wi-Fi System,Networking,"Perfect for work, play, and everything in between",506.54,True,3163,431,1.6,Poor customer service|Not worth the price|Amazing features
+P1727,"Smart LED TV 43""",TVs,User-friendly design and long battery life,1857.89,False,2386,362,4.8,Could be better|Poor customer service|Would buy again
+P1728,Action Camera,Cameras,"Perfect for work, play, and everything in between",1840.82,True,8168,453,3.3,Would buy again|Excellent quality|Not worth the price
+P1729,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",485.02,True,6628,354,3.9,Could be better|Not worth the price|Amazing features
+P1730,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",789.45,False,7001,27,5.0,Amazing features|Highly recommend|Great value for money
+P1731,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",1822.93,False,5182,175,3.8,Amazing features|Would buy again|Poor customer service
+P1732,"Ultrabook 13""",Laptops,Equipped with the latest technology,1116.15,False,6917,262,4.5,Would buy again|Amazing features|Excellent quality
+P1733,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,1849.87,False,819,388,1.4,Great value for money|Highly recommend|Could be better
+P1734,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",346.81,True,5932,411,1.7,Very satisfied|Battery lasts long|Would buy again
+P1735,Wi-Fi 6 Router,Networking,Equipped with the latest technology,488.77,False,7112,387,4.3,Great value for money|Excellent quality|Amazing features
+P1736,USB-C Hub,Computer Accessories,"Perfect for work, play, and everything in between",305.58,False,9959,78,1.1,Very satisfied|Excellent quality|Poor customer service
+P1737,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",1656.49,True,1944,289,3.9,Great value for money|Highly recommend|Very satisfied
+P1738,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",1514.15,False,3780,277,3.5,Would buy again|Battery lasts long|Great value for money
+P1739,USB-C Hub,Computer Accessories,High performance and reliability for daily use,634.26,False,2446,460,2.5,Could be better|Excellent quality|Highly recommend
+P1740,"Business Laptop 15""",Laptops,"Compact, stylish, and powerful",1255.35,False,4599,232,4.0,Not worth the price|Excellent quality|Could be better
+P1741,Soundbar with Subwoofer,Audio,User-friendly design and long battery life,328.51,True,7618,294,4.7,Amazing features|Excellent quality|Great value for money
+P1742,Portable Bluetooth Speaker,Audio,User-friendly design and long battery life,435.09,True,1844,425,2.8,Battery lasts long|Would buy again|Very satisfied
+P1743,"Smart LED TV 43""",TVs,"Compact, stylish, and powerful",1710.28,True,1210,278,2.7,Amazing features|Would buy again|Very satisfied
+P1744,Wireless Gaming Mouse,Gaming,High performance and reliability for daily use,776.93,True,6969,241,1.2,Great value for money|Poor customer service|Would buy again
+P1745,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",50.81,True,5830,298,1.8,Highly recommend|Poor customer service|Would buy again
+P1746,Smart Glasses,Wearables,"Perfect for work, play, and everything in between",180.1,False,5659,180,3.7,Very satisfied|Great value for money|Excellent quality
+P1747,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",337.51,True,8402,301,2.7,Very satisfied|Poor customer service|Excellent quality
+P1748,Robot Vacuum,Home Appliances,"Compact, stylish, and powerful",393.48,False,6265,293,4.7,Poor customer service|Very satisfied|Would buy again
+P1749,Mechanical Gaming Keyboard,Gaming,High performance and reliability for daily use,1234.41,True,7347,499,4.5,Could be better|Great value for money|Amazing features
+P1750,Gaming Console,Gaming,User-friendly design and long battery life,1766.94,False,8416,418,4.5,Poor customer service|Not worth the price|Excellent quality
+P1751,Smartphone 128GB,Mobile Phones,User-friendly design and long battery life,264.03,False,8798,420,4.5,Very satisfied|Amazing features|Highly recommend
+P1752,Air Purifier,Home Appliances,Equipped with the latest technology,937.74,False,5994,155,4.6,Could be better|Not worth the price|Poor customer service
+P1753,Smart Glasses,Wearables,High performance and reliability for daily use,1053.33,False,3037,476,2.6,Highly recommend|Excellent quality|Great value for money
+P1754,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,1772.47,False,383,200,1.0,Very satisfied|Poor customer service|Great value for money
+P1755,Air Purifier,Home Appliances,"Compact, stylish, and powerful",1742.27,False,9510,381,1.2,Would buy again|Poor customer service|Highly recommend
+P1756,"Smart LED TV 43""",TVs,Equipped with the latest technology,359.28,True,9909,65,2.6,Poor customer service|Very satisfied|Excellent quality
+P1757,Smart Microwave,Home Appliances,"Compact, stylish, and powerful",81.29,True,3280,258,2.7,Excellent quality|Great value for money|Could be better
+P1758,Network Switch,Networking,Equipped with the latest technology,1535.34,True,4036,149,2.2,Excellent quality|Highly recommend|Could be better
+P1759,Budget Smartphone,Mobile Phones,"Compact, stylish, and powerful",1792.15,False,1949,53,1.4,Not worth the price|Very satisfied|Would buy again
+P1760,Mesh Wi-Fi System,Networking,User-friendly design and long battery life,1554.18,False,9549,232,3.8,Great value for money|Battery lasts long|Amazing features
+P1761,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",1290.25,True,4616,167,4.9,Would buy again|Very satisfied|Could be better
+P1762,Gaming Console,Gaming,"Compact, stylish, and powerful",1396.65,False,6632,318,3.9,Poor customer service|Very satisfied|Excellent quality
+P1763,Smart Glasses,Wearables,User-friendly design and long battery life,117.07,False,9671,461,4.0,Excellent quality|Highly recommend|Poor customer service
+P1764,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",202.86,False,516,275,1.3,Would buy again|Amazing features|Could be better
+P1765,Gaming Console,Gaming,High performance and reliability for daily use,1317.76,False,9351,26,1.1,Not worth the price|Poor customer service|Highly recommend
+P1766,Fitness Tracker,Wearables,User-friendly design and long battery life,282.59,False,2805,482,4.0,Highly recommend|Could be better|Would buy again
+P1767,Soundbar with Subwoofer,Audio,"Compact, stylish, and powerful",1934.67,False,9491,420,3.2,Highly recommend|Battery lasts long|Not worth the price
+P1768,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",502.81,True,1042,413,1.9,Amazing features|Not worth the price|Would buy again
+P1769,Network Switch,Networking,Equipped with the latest technology,1343.34,True,5700,154,3.8,Excellent quality|Amazing features|Highly recommend
+P1770,Smart Glasses,Wearables,Equipped with the latest technology,712.37,True,5494,220,4.0,Not worth the price|Would buy again|Excellent quality
+P1771,Mesh Wi-Fi System,Networking,Equipped with the latest technology,130.69,True,9236,303,5.0,Great value for money|Not worth the price|Highly recommend
+P1772,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",1003.27,False,9454,166,1.1,Poor customer service|Amazing features|Battery lasts long
+P1773,Wi-Fi 6 Router,Networking,Equipped with the latest technology,532.95,False,5930,87,2.7,Highly recommend|Great value for money|Battery lasts long
+P1774,Mechanical Gaming Keyboard,Gaming,"Perfect for work, play, and everything in between",1911.09,True,3488,349,1.3,Highly recommend|Excellent quality|Great value for money
+P1775,Smartwatch with GPS,Wearables,High performance and reliability for daily use,992.31,False,6850,295,1.3,Could be better|Amazing features|Battery lasts long
+P1776,Gaming Laptop 16GB RAM,Laptops,Equipped with the latest technology,1323.91,False,6440,261,2.9,Very satisfied|Would buy again|Not worth the price
+P1777,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",255.9,False,2885,419,4.3,Highly recommend|Would buy again|Excellent quality
+P1778,DSLR Camera,Cameras,High performance and reliability for daily use,685.48,False,7036,200,1.3,Very satisfied|Battery lasts long|Amazing features
+P1779,Network Switch,Networking,Equipped with the latest technology,410.2,False,2525,483,1.2,Poor customer service|Battery lasts long|Could be better
+P1780,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",1595.92,True,5260,200,4.1,Highly recommend|Excellent quality|Great value for money
+P1781,Gaming Console,Gaming,Equipped with the latest technology,616.17,True,2414,344,2.6,Amazing features|Not worth the price|Great value for money
+P1782,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,131.36,True,6685,493,4.5,Amazing features|Could be better|Battery lasts long
+P1783,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",1938.56,True,9959,197,1.7,Great value for money|Poor customer service|Very satisfied
+P1784,"Business Laptop 15""",Laptops,Equipped with the latest technology,531.32,True,5590,472,3.3,Would buy again|Highly recommend|Could be better
+P1785,Smartphone 128GB,Mobile Phones,User-friendly design and long battery life,1009.66,True,1706,24,1.2,Great value for money|Would buy again|Excellent quality
+P1786,USB-C Hub,Computer Accessories,User-friendly design and long battery life,812.92,True,2440,420,2.3,Could be better|Highly recommend|Great value for money
+P1787,Air Purifier,Home Appliances,User-friendly design and long battery life,345.83,True,1544,356,2.4,Could be better|Not worth the price|Very satisfied
+P1788,Smart Microwave,Home Appliances,High performance and reliability for daily use,203.9,False,3567,221,3.4,Great value for money|Amazing features|Not worth the price
+P1789,USB-C Hub,Computer Accessories,"Perfect for work, play, and everything in between",978.93,True,7527,342,2.2,Very satisfied|Great value for money|Battery lasts long
+P1790,DSLR Camera,Cameras,High performance and reliability for daily use,697.28,False,1434,469,1.2,Great value for money|Very satisfied|Poor customer service
+P1791,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",717.36,True,9910,382,4.9,Great value for money|Poor customer service|Very satisfied
+P1792,Network Switch,Networking,Equipped with the latest technology,1799.62,False,9596,82,4.9,Excellent quality|Amazing features|Would buy again
+P1793,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",1613.73,True,7473,139,4.7,Would buy again|Could be better|Very satisfied
+P1794,"Business Laptop 15""",Laptops,"Compact, stylish, and powerful",1468.08,False,342,385,4.0,Not worth the price|Very satisfied|Highly recommend
+P1795,Gaming Laptop 16GB RAM,Laptops,"Perfect for work, play, and everything in between",1320.84,False,891,182,3.1,Could be better|Amazing features|Highly recommend
+P1796,Wireless Gaming Mouse,Gaming,"Perfect for work, play, and everything in between",1425.77,False,683,305,2.1,Highly recommend|Could be better|Not worth the price
+P1797,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1750.62,True,3475,161,3.0,Highly recommend|Would buy again|Not worth the price
+P1798,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,1816.65,False,2176,481,3.3,Great value for money|Battery lasts long|Excellent quality
+P1799,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",442.9,True,3782,23,4.1,Could be better|Amazing features|Poor customer service
+P1800,5G Android Phone,Mobile Phones,User-friendly design and long battery life,1527.73,True,6389,56,3.5,Could be better|Would buy again|Excellent quality
+P1801,Air Purifier,Home Appliances,User-friendly design and long battery life,183.49,False,5834,38,3.7,Would buy again|Excellent quality|Battery lasts long
+P1802,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",1594.43,False,8883,68,3.7,Highly recommend|Not worth the price|Excellent quality
+P1803,Mechanical Gaming Keyboard,Gaming,High performance and reliability for daily use,197.29,True,263,85,4.5,Great value for money|Highly recommend|Poor customer service
+P1804,Ergonomic Mouse,Computer Accessories,User-friendly design and long battery life,271.74,False,2038,317,4.6,Not worth the price|Battery lasts long|Amazing features
+P1805,Ergonomic Mouse,Computer Accessories,Equipped with the latest technology,1086.04,True,3127,28,4.8,Poor customer service|Amazing features|Excellent quality
+P1806,Wireless Noise Cancelling Headphones,Audio,Equipped with the latest technology,149.68,True,4215,124,4.5,Highly recommend|Very satisfied|Excellent quality
+P1807,USB-C Hub,Computer Accessories,"Perfect for work, play, and everything in between",1886.16,False,6671,60,1.0,Poor customer service|Very satisfied|Could be better
+P1808,USB-C Hub,Computer Accessories,User-friendly design and long battery life,51.45,False,1614,466,1.4,Would buy again|Very satisfied|Battery lasts long
+P1809,Ergonomic Mouse,Computer Accessories,"Perfect for work, play, and everything in between",1146.79,True,205,305,1.8,Excellent quality|Poor customer service|Battery lasts long
+P1810,Smartphone 128GB,Mobile Phones,"Perfect for work, play, and everything in between",942.56,True,7445,268,1.0,Highly recommend|Very satisfied|Poor customer service
+P1811,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",1330.97,False,6728,160,2.7,Poor customer service|Battery lasts long|Very satisfied
+P1812,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",364.43,True,6736,351,1.8,Not worth the price|Battery lasts long|Would buy again
+P1813,Robot Vacuum,Home Appliances,User-friendly design and long battery life,1553.48,False,8000,323,1.8,Could be better|Would buy again|Great value for money
+P1814,Network Switch,Networking,High performance and reliability for daily use,916.14,False,9553,17,3.6,Not worth the price|Highly recommend|Could be better
+P1815,Mirrorless Camera,Cameras,Equipped with the latest technology,341.91,False,4645,125,3.7,Battery lasts long|Excellent quality|Would buy again
+P1816,Soundbar with Subwoofer,Audio,User-friendly design and long battery life,286.02,True,7617,149,3.4,Poor customer service|Could be better|Battery lasts long
+P1817,Gaming Console,Gaming,"Perfect for work, play, and everything in between",1674.67,True,4533,341,2.3,Battery lasts long|Great value for money|Amazing features
+P1818,DSLR Camera,Cameras,High performance and reliability for daily use,1825.23,False,6504,459,3.9,Amazing features|Very satisfied|Excellent quality
+P1819,External SSD 1TB,Computer Accessories,High performance and reliability for daily use,1934.42,False,6236,95,4.2,Battery lasts long|Could be better|Very satisfied
+P1820,Action Camera,Cameras,"Compact, stylish, and powerful",1805.25,True,4679,351,1.1,Very satisfied|Not worth the price|Highly recommend
+P1821,Mesh Wi-Fi System,Networking,Equipped with the latest technology,1540.76,True,2668,136,2.3,Highly recommend|Would buy again|Not worth the price
+P1822,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",1691.62,True,2360,481,2.5,Very satisfied|Battery lasts long|Amazing features
+P1823,USB-C Hub,Computer Accessories,Equipped with the latest technology,291.96,True,5049,423,3.3,Highly recommend|Amazing features|Could be better
+P1824,Smartphone 128GB,Mobile Phones,User-friendly design and long battery life,1477.81,False,6415,396,3.7,Excellent quality|Great value for money|Battery lasts long
+P1825,DSLR Camera,Cameras,High performance and reliability for daily use,837.63,True,5343,94,2.5,Would buy again|Not worth the price|Poor customer service
+P1826,Smart Microwave,Home Appliances,User-friendly design and long battery life,1982.07,True,9512,466,4.1,Battery lasts long|Great value for money|Could be better
+P1827,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",561.79,False,4340,406,2.4,Highly recommend|Excellent quality|Great value for money
+P1828,Gaming Console,Gaming,Equipped with the latest technology,1946.71,True,1801,51,3.7,Not worth the price|Very satisfied|Poor customer service
+P1829,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1404.95,False,4116,419,2.4,Battery lasts long|Excellent quality|Not worth the price
+P1830,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",876.42,False,8164,392,4.3,Highly recommend|Amazing features|Would buy again
+P1831,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",1562.44,False,451,393,1.1,Very satisfied|Great value for money|Excellent quality
+P1832,Robot Vacuum,Home Appliances,High performance and reliability for daily use,1904.9,True,5766,93,1.0,Battery lasts long|Highly recommend|Could be better
+P1833,Smartphone 128GB,Mobile Phones,User-friendly design and long battery life,714.51,True,5177,378,1.7,Excellent quality|Could be better|Very satisfied
+P1834,"Smart LED TV 43""",TVs,High performance and reliability for daily use,1015.15,False,7650,94,1.9,Battery lasts long|Would buy again|Excellent quality
+P1835,Smart Glasses,Wearables,"Compact, stylish, and powerful",1060.28,False,8245,226,1.0,Battery lasts long|Highly recommend|Could be better
+P1836,DSLR Camera,Cameras,User-friendly design and long battery life,1797.65,False,6594,468,1.7,Battery lasts long|Highly recommend|Could be better
+P1837,Gaming Laptop 16GB RAM,Laptops,High performance and reliability for daily use,728.11,True,5705,55,2.4,Highly recommend|Not worth the price|Excellent quality
+P1838,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",1610.07,True,5759,122,3.4,Would buy again|Poor customer service|Very satisfied
+P1839,Air Purifier,Home Appliances,"Compact, stylish, and powerful",1439.75,True,9578,98,3.0,Would buy again|Great value for money|Very satisfied
+P1840,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",1121.6,True,7305,247,1.5,Excellent quality|Great value for money|Poor customer service
+P1841,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,1904.51,False,226,143,1.5,Amazing features|Would buy again|Great value for money
+P1842,"OLED TV 65""",TVs,User-friendly design and long battery life,1144.53,False,5526,2,2.0,Poor customer service|Could be better
+P1843,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",1358.17,False,8326,202,2.2,Excellent quality|Amazing features|Could be better
+P1844,USB-C Hub,Computer Accessories,User-friendly design and long battery life,1713.51,False,9376,312,4.6,Battery lasts long|Highly recommend|Amazing features
+P1845,Gaming Console,Gaming,Equipped with the latest technology,1665.14,False,6203,466,2.7,Would buy again|Amazing features|Excellent quality
+P1846,Smart Glasses,Wearables,High performance and reliability for daily use,1731.81,True,1940,182,1.9,Great value for money|Could be better|Poor customer service
+P1847,5G Android Phone,Mobile Phones,Equipped with the latest technology,1460.76,False,6658,79,2.5,Not worth the price|Excellent quality|Battery lasts long
+P1848,Soundbar with Subwoofer,Audio,High performance and reliability for daily use,1717.5,False,6307,343,4.4,Highly recommend|Could be better|Very satisfied
+P1849,"Ultrabook 13""",Laptops,High performance and reliability for daily use,523.76,True,2208,215,2.3,Could be better|Excellent quality|Not worth the price
+P1850,USB-C Hub,Computer Accessories,Equipped with the latest technology,1018.62,False,9032,419,3.0,Would buy again|Not worth the price|Poor customer service
+P1851,Robot Vacuum,Home Appliances,"Perfect for work, play, and everything in between",1456.8,False,3313,307,3.1,Great value for money|Could be better|Poor customer service
+P1852,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",623.65,False,4868,478,3.5,Very satisfied|Amazing features|Poor customer service
+P1853,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",324.08,False,2577,40,2.0,Poor customer service|Highly recommend|Could be better
+P1854,Air Purifier,Home Appliances,"Compact, stylish, and powerful",1207.45,False,1814,51,1.1,Would buy again|Highly recommend|Not worth the price
+P1855,"Business Laptop 15""",Laptops,High performance and reliability for daily use,1898.66,False,5428,112,3.2,Battery lasts long|Amazing features|Great value for money
+P1856,Action Camera,Cameras,Equipped with the latest technology,1554.71,True,8162,276,2.7,Poor customer service|Battery lasts long|Excellent quality
+P1857,"Smart LED TV 43""",TVs,High performance and reliability for daily use,186.91,False,2036,439,2.5,Could be better|Poor customer service|Excellent quality
+P1858,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1585.96,False,5106,484,3.6,Would buy again|Excellent quality|Very satisfied
+P1859,External SSD 1TB,Computer Accessories,Equipped with the latest technology,1329.29,True,6286,376,4.9,Very satisfied|Highly recommend|Battery lasts long
+P1860,Wireless Gaming Mouse,Gaming,User-friendly design and long battery life,181.54,False,8897,45,2.7,Amazing features|Highly recommend|Battery lasts long
+P1861,Action Camera,Cameras,Equipped with the latest technology,131.77,True,8637,111,4.6,Not worth the price|Would buy again|Amazing features
+P1862,Gaming Laptop 16GB RAM,Laptops,"Perfect for work, play, and everything in between",582.94,True,254,267,4.5,Amazing features|Excellent quality|Could be better
+P1863,5G Android Phone,Mobile Phones,Equipped with the latest technology,1962.72,False,2879,204,1.5,Very satisfied|Could be better|Highly recommend
+P1864,USB-C Hub,Computer Accessories,User-friendly design and long battery life,1699.3,True,2178,396,4.2,Poor customer service|Would buy again|Could be better
+P1865,"4K UHD Smart TV 55""",TVs,"Compact, stylish, and powerful",712.48,False,8930,30,4.1,Very satisfied|Excellent quality|Amazing features
+P1866,Smartphone 128GB,Mobile Phones,"Compact, stylish, and powerful",1986.13,True,2276,267,4.6,Not worth the price|Could be better|Great value for money
+P1867,Wireless Noise Cancelling Headphones,Audio,User-friendly design and long battery life,1845.79,True,3518,338,1.4,Battery lasts long|Amazing features|Poor customer service
+P1868,Network Switch,Networking,"Compact, stylish, and powerful",697.24,True,6637,71,3.2,Amazing features|Not worth the price|Excellent quality
+P1869,Soundbar with Subwoofer,Audio,User-friendly design and long battery life,1880.12,False,1217,456,4.8,Battery lasts long|Amazing features|Highly recommend
+P1870,Budget Smartphone,Mobile Phones,"Compact, stylish, and powerful",1438.46,True,9576,321,4.5,Could be better|Battery lasts long|Very satisfied
+P1871,Smartphone 128GB,Mobile Phones,"Perfect for work, play, and everything in between",25.96,True,8950,140,1.5,Great value for money|Could be better|Amazing features
+P1872,Air Purifier,Home Appliances,Equipped with the latest technology,1141.58,True,3759,176,2.4,Poor customer service|Very satisfied|Amazing features
+P1873,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",838.36,True,1799,473,1.6,Could be better|Battery lasts long|Not worth the price
+P1874,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",541.61,False,6663,15,1.2,Poor customer service|Very satisfied|Battery lasts long
+P1875,"Ultrabook 13""",Laptops,User-friendly design and long battery life,114.6,False,6310,313,1.6,Highly recommend|Excellent quality|Would buy again
+P1876,Smartwatch with GPS,Wearables,"Perfect for work, play, and everything in between",1799.43,True,5717,379,3.3,Poor customer service|Very satisfied|Excellent quality
+P1877,Budget Smartphone,Mobile Phones,High performance and reliability for daily use,1022.39,True,786,119,1.3,Could be better|Would buy again|Great value for money
+P1878,USB-C Hub,Computer Accessories,"Compact, stylish, and powerful",208.53,True,8344,29,1.8,Would buy again|Battery lasts long|Poor customer service
+P1879,Portable Bluetooth Speaker,Audio,User-friendly design and long battery life,46.12,False,5022,454,4.3,Excellent quality|Very satisfied|Could be better
+P1880,"OLED TV 65""",TVs,High performance and reliability for daily use,1774.62,True,939,163,4.0,Could be better|Great value for money|Poor customer service
+P1881,Gaming Laptop 16GB RAM,Laptops,Equipped with the latest technology,1614.35,False,3985,195,1.2,Battery lasts long|Very satisfied|Would buy again
+P1882,"Smart LED TV 43""",TVs,Equipped with the latest technology,405.86,False,3893,393,2.1,Battery lasts long|Amazing features|Could be better
+P1883,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",1632.45,False,2186,306,1.5,Very satisfied|Highly recommend|Would buy again
+P1884,Ergonomic Mouse,Computer Accessories,"Compact, stylish, and powerful",1016.91,False,6120,88,1.6,Battery lasts long|Amazing features|Not worth the price
+P1885,Gaming Console,Gaming,"Perfect for work, play, and everything in between",1466.31,True,4648,142,2.1,Not worth the price|Poor customer service|Would buy again
+P1886,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",1192.41,True,6233,287,1.1,Great value for money|Not worth the price|Very satisfied
+P1887,Budget Smartphone,Mobile Phones,Equipped with the latest technology,1714.71,False,4540,196,3.7,Amazing features|Battery lasts long|Could be better
+P1888,Wireless Gaming Mouse,Gaming,High performance and reliability for daily use,533.87,False,2894,339,1.7,Amazing features|Highly recommend|Very satisfied
+P1889,Smart Microwave,Home Appliances,"Perfect for work, play, and everything in between",481.84,False,1589,323,1.1,Could be better|Highly recommend|Amazing features
+P1890,Robot Vacuum,Home Appliances,Equipped with the latest technology,137.11,False,6705,104,4.7,Great value for money|Not worth the price|Very satisfied
+P1891,Fitness Tracker,Wearables,User-friendly design and long battery life,1622.71,True,9355,27,4.0,Amazing features|Excellent quality|Very satisfied
+P1892,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",660.29,True,7323,260,1.6,Highly recommend|Would buy again|Amazing features
+P1893,"Business Laptop 15""",Laptops,User-friendly design and long battery life,702.25,False,8252,410,3.9,Excellent quality|Highly recommend|Battery lasts long
+P1894,Gaming Laptop 16GB RAM,Laptops,User-friendly design and long battery life,1706.43,False,7597,54,3.5,Amazing features|Battery lasts long|Very satisfied
+P1895,Smartwatch with GPS,Wearables,High performance and reliability for daily use,807.92,True,4355,156,4.2,Highly recommend|Not worth the price|Would buy again
+P1896,"Ultrabook 13""",Laptops,"Perfect for work, play, and everything in between",1569.61,True,5634,128,3.1,Poor customer service|Very satisfied|Excellent quality
+P1897,Air Purifier,Home Appliances,User-friendly design and long battery life,957.93,False,7987,383,3.1,Battery lasts long|Not worth the price|Could be better
+P1898,Wi-Fi 6 Router,Networking,"Perfect for work, play, and everything in between",1154.78,False,8948,479,3.8,Would buy again|Very satisfied|Excellent quality
+P1899,Network Switch,Networking,"Perfect for work, play, and everything in between",674.74,True,5770,411,2.5,Very satisfied|Poor customer service|Highly recommend
+P1900,Soundbar with Subwoofer,Audio,"Compact, stylish, and powerful",702.25,True,1977,383,1.3,Would buy again|Excellent quality|Not worth the price
+P1901,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,603.48,False,5125,422,2.0,Great value for money|Poor customer service|Excellent quality
+P1902,Gaming Console,Gaming,Equipped with the latest technology,1841.44,False,3649,392,3.7,Battery lasts long|Would buy again|Could be better
+P1903,Gaming Console,Gaming,"Perfect for work, play, and everything in between",1413.41,False,9509,331,3.6,Very satisfied|Highly recommend|Could be better
+P1904,Network Switch,Networking,High performance and reliability for daily use,1346.13,True,2610,480,4.3,Battery lasts long|Poor customer service|Excellent quality
+P1905,Portable Bluetooth Speaker,Audio,"Perfect for work, play, and everything in between",766.91,False,7740,109,4.7,Battery lasts long|Would buy again|Amazing features
+P1906,Smartphone 128GB,Mobile Phones,Equipped with the latest technology,817.25,False,4351,194,2.1,Highly recommend|Amazing features|Very satisfied
+P1907,Mirrorless Camera,Cameras,High performance and reliability for daily use,862.34,False,8343,199,4.9,Not worth the price|Would buy again|Great value for money
+P1908,Mesh Wi-Fi System,Networking,Equipped with the latest technology,262.34,False,4525,355,4.3,Great value for money|Would buy again|Excellent quality
+P1909,"Ultrabook 13""",Laptops,User-friendly design and long battery life,1713.15,False,2551,324,2.2,Great value for money|Excellent quality|Highly recommend
+P1910,Gaming Console,Gaming,"Perfect for work, play, and everything in between",646.93,True,8016,317,5.0,Very satisfied|Would buy again|Battery lasts long
+P1911,Smart Microwave,Home Appliances,"Compact, stylish, and powerful",1469.3,False,5542,52,1.3,Excellent quality|Very satisfied|Would buy again
+P1912,Air Purifier,Home Appliances,"Perfect for work, play, and everything in between",918.39,False,4175,267,4.2,Battery lasts long|Very satisfied|Poor customer service
+P1913,"4K UHD Smart TV 55""",TVs,Equipped with the latest technology,225.47,True,6212,196,3.8,Could be better|Very satisfied|Battery lasts long
+P1914,Smart Glasses,Wearables,"Perfect for work, play, and everything in between",1680.55,True,3783,268,1.2,Not worth the price|Poor customer service|Amazing features
+P1915,DSLR Camera,Cameras,Equipped with the latest technology,1595.02,False,6935,322,4.9,Poor customer service|Great value for money|Could be better
+P1916,Gaming Laptop 16GB RAM,Laptops,Equipped with the latest technology,1165.23,False,2810,69,4.1,Great value for money|Amazing features|Very satisfied
+P1917,Air Purifier,Home Appliances,High performance and reliability for daily use,1123.86,True,3511,172,2.0,Amazing features|Battery lasts long|Would buy again
+P1918,5G Android Phone,Mobile Phones,High performance and reliability for daily use,1483.71,False,733,238,1.7,Highly recommend|Battery lasts long|Great value for money
+P1919,Fitness Tracker,Wearables,Equipped with the latest technology,886.79,False,2038,33,2.8,Poor customer service|Would buy again|Amazing features
+P1920,Gaming Console,Gaming,Equipped with the latest technology,1042.03,True,448,282,1.8,Not worth the price|Great value for money|Battery lasts long
+P1921,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",1543.98,False,3674,477,3.2,Highly recommend|Very satisfied|Would buy again
+P1922,Smart Microwave,Home Appliances,"Perfect for work, play, and everything in between",1743.43,False,1338,361,2.0,Very satisfied|Amazing features|Could be better
+P1923,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",963.18,True,3941,38,4.3,Would buy again|Amazing features|Battery lasts long
+P1924,Smart Microwave,Home Appliances,User-friendly design and long battery life,789.34,False,3590,492,1.9,Great value for money|Poor customer service|Excellent quality
+P1925,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,1444.18,False,9756,387,4.0,Great value for money|Could be better|Would buy again
+P1926,Wi-Fi 6 Router,Networking,"Perfect for work, play, and everything in between",551.88,True,623,67,2.1,Could be better|Amazing features|Poor customer service
+P1927,DSLR Camera,Cameras,User-friendly design and long battery life,1380.02,False,4280,287,2.3,Excellent quality|Amazing features|Highly recommend
+P1928,External SSD 1TB,Computer Accessories,"Perfect for work, play, and everything in between",1887.45,False,1247,21,4.7,Great value for money|Excellent quality|Very satisfied
+P1929,Budget Smartphone,Mobile Phones,Equipped with the latest technology,725.01,True,2419,304,2.1,Battery lasts long|Not worth the price|Highly recommend
+P1930,Ergonomic Mouse,Computer Accessories,"Perfect for work, play, and everything in between",1796.96,True,5990,401,2.9,Would buy again|Poor customer service|Could be better
+P1931,Smart Glasses,Wearables,"Compact, stylish, and powerful",310.52,False,8024,241,3.0,Excellent quality|Poor customer service|Great value for money
+P1932,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,1054.26,False,9709,315,1.8,Very satisfied|Poor customer service|Highly recommend
+P1933,Smart Microwave,Home Appliances,"Perfect for work, play, and everything in between",1279.86,False,4727,335,4.6,Amazing features|Very satisfied|Could be better
+P1934,Smart Microwave,Home Appliances,High performance and reliability for daily use,153.04,False,7614,22,1.7,Poor customer service|Battery lasts long|Would buy again
+P1935,"Smart LED TV 43""",TVs,High performance and reliability for daily use,747.82,False,460,43,2.3,Battery lasts long|Great value for money|Excellent quality
+P1936,"Smart LED TV 43""",TVs,"Perfect for work, play, and everything in between",1445.39,False,3110,339,3.3,Great value for money|Highly recommend|Could be better
+P1937,Robot Vacuum,Home Appliances,"Perfect for work, play, and everything in between",831.62,False,8129,225,2.7,Highly recommend|Very satisfied|Not worth the price
+P1938,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",755.25,True,9666,33,2.0,Would buy again|Could be better|Not worth the price
+P1939,Mechanical Gaming Keyboard,Gaming,Equipped with the latest technology,895.54,True,4449,132,4.0,Not worth the price|Highly recommend|Amazing features
+P1940,USB-C Hub,Computer Accessories,High performance and reliability for daily use,1829.03,False,2823,336,3.5,Amazing features|Excellent quality|Would buy again
+P1941,Wi-Fi 6 Router,Networking,"Perfect for work, play, and everything in between",1172.84,False,2045,31,1.6,Not worth the price|Very satisfied|Poor customer service
+P1942,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",1263.02,True,5578,302,1.2,Not worth the price|Great value for money|Could be better
+P1943,"OLED TV 65""",TVs,"Compact, stylish, and powerful",1199.16,False,7388,377,2.1,Would buy again|Battery lasts long|Amazing features
+P1944,Smart Microwave,Home Appliances,High performance and reliability for daily use,642.66,False,9649,411,2.4,Could be better|Not worth the price|Amazing features
+P1945,Mechanical Gaming Keyboard,Gaming,User-friendly design and long battery life,1086.37,False,7569,87,1.8,Not worth the price|Poor customer service|Very satisfied
+P1946,Budget Smartphone,Mobile Phones,User-friendly design and long battery life,520.76,False,1410,488,4.2,Poor customer service|Great value for money|Highly recommend
+P1947,Smart Glasses,Wearables,"Compact, stylish, and powerful",1982.23,False,506,115,4.2,Very satisfied|Would buy again|Not worth the price
+P1948,"Business Laptop 15""",Laptops,Equipped with the latest technology,1853.48,False,3577,121,4.4,Great value for money|Poor customer service|Very satisfied
+P1949,Air Purifier,Home Appliances,Equipped with the latest technology,45.01,False,9381,407,1.8,Amazing features|Great value for money|Battery lasts long
+P1950,"Business Laptop 15""",Laptops,Equipped with the latest technology,929.67,False,2626,66,2.0,Great value for money|Poor customer service|Highly recommend
+P1951,Air Purifier,Home Appliances,Equipped with the latest technology,1112.38,True,5711,476,2.2,Could be better|Excellent quality|Great value for money
+P1952,5G Android Phone,Mobile Phones,User-friendly design and long battery life,1418.35,True,2725,161,3.3,Battery lasts long|Great value for money|Would buy again
+P1953,Fitness Tracker,Wearables,High performance and reliability for daily use,998.23,False,6932,138,4.7,Great value for money|Excellent quality|Highly recommend
+P1954,"OLED TV 65""",TVs,Equipped with the latest technology,1504.85,True,4934,181,3.0,Very satisfied|Battery lasts long|Could be better
+P1955,Smartphone 128GB,Mobile Phones,Equipped with the latest technology,514.31,False,184,69,1.5,Very satisfied|Highly recommend|Could be better
+P1956,Network Switch,Networking,User-friendly design and long battery life,185.6,True,5969,100,2.9,Battery lasts long|Excellent quality|Highly recommend
+P1957,Soundbar with Subwoofer,Audio,"Perfect for work, play, and everything in between",192.08,True,9644,48,3.8,Amazing features|Great value for money|Very satisfied
+P1958,Gaming Console,Gaming,Equipped with the latest technology,1397.98,False,9780,105,1.7,Great value for money|Highly recommend|Poor customer service
+P1959,Mechanical Gaming Keyboard,Gaming,High performance and reliability for daily use,195.05,False,2228,280,1.1,Poor customer service|Excellent quality|Battery lasts long
+P1960,Fitness Tracker,Wearables,"Perfect for work, play, and everything in between",1402.81,True,4870,326,3.0,Poor customer service|Excellent quality|Would buy again
+P1961,External SSD 1TB,Computer Accessories,Equipped with the latest technology,1325.6,False,4922,72,3.6,Excellent quality|Great value for money|Very satisfied
+P1962,"OLED TV 65""",TVs,"Compact, stylish, and powerful",1748.74,False,9539,114,2.6,Amazing features|Poor customer service|Would buy again
+P1963,Wireless Gaming Mouse,Gaming,Equipped with the latest technology,740.09,False,5323,347,1.1,Not worth the price|Great value for money|Poor customer service
+P1964,"OLED TV 65""",TVs,High performance and reliability for daily use,458.96,False,7144,137,1.9,Battery lasts long|Amazing features|Poor customer service
+P1965,Network Switch,Networking,"Perfect for work, play, and everything in between",44.66,False,9478,40,4.8,Poor customer service|Great value for money|Very satisfied
+P1966,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",1479.51,True,7957,335,2.3,Not worth the price|Would buy again|Highly recommend
+P1967,Wireless Noise Cancelling Headphones,Audio,"Compact, stylish, and powerful",568.4,True,9164,420,2.2,Poor customer service|Would buy again|Excellent quality
+P1968,Gaming Laptop 16GB RAM,Laptops,High performance and reliability for daily use,218.21,True,9959,352,2.6,Would buy again|Excellent quality|Highly recommend
+P1969,Portable Bluetooth Speaker,Audio,User-friendly design and long battery life,1551.84,True,8298,217,2.0,Would buy again|Excellent quality|Not worth the price
+P1970,5G Android Phone,Mobile Phones,"Perfect for work, play, and everything in between",534.24,True,2873,471,1.8,Could be better|Great value for money|Amazing features
+P1971,External SSD 1TB,Computer Accessories,User-friendly design and long battery life,392.26,True,6392,483,4.2,Would buy again|Excellent quality|Amazing features
+P1972,Smartwatch with GPS,Wearables,Equipped with the latest technology,1912.86,True,1857,446,1.5,Could be better|Battery lasts long|Poor customer service
+P1973,USB-C Hub,Computer Accessories,High performance and reliability for daily use,1313.05,False,6205,231,1.2,Very satisfied|Amazing features|Could be better
+P1974,Mesh Wi-Fi System,Networking,Equipped with the latest technology,693.43,True,297,330,1.2,Would buy again|Very satisfied|Highly recommend
+P1975,Robot Vacuum,Home Appliances,Equipped with the latest technology,1725.54,False,5759,243,1.2,Not worth the price|Would buy again|Could be better
+P1976,Mechanical Gaming Keyboard,Gaming,"Compact, stylish, and powerful",356.71,True,1386,102,1.1,Battery lasts long|Amazing features|Great value for money
+P1977,"4K UHD Smart TV 55""",TVs,"Perfect for work, play, and everything in between",256.0,True,2382,44,2.6,Great value for money|Battery lasts long|Highly recommend
+P1978,Smart Glasses,Wearables,High performance and reliability for daily use,1145.13,False,9700,377,3.7,Poor customer service|Could be better|Highly recommend
+P1979,Air Purifier,Home Appliances,User-friendly design and long battery life,830.64,True,1913,266,2.6,Poor customer service|Not worth the price|Highly recommend
+P1980,"Business Laptop 15""",Laptops,High performance and reliability for daily use,464.0,False,1158,5,2.6,Amazing features|Could be better|Excellent quality
+P1981,Gaming Laptop 16GB RAM,Laptops,"Compact, stylish, and powerful",652.64,True,6555,246,3.9,Poor customer service|Excellent quality|Could be better
+P1982,Wi-Fi 6 Router,Networking,User-friendly design and long battery life,1376.88,True,3361,426,4.7,Highly recommend|Battery lasts long|Amazing features
+P1983,Smartphone 128GB,Mobile Phones,High performance and reliability for daily use,1289.48,False,5625,224,2.6,Poor customer service|Battery lasts long|Highly recommend
+P1984,Network Switch,Networking,Equipped with the latest technology,1104.58,False,1461,297,5.0,Poor customer service|Battery lasts long|Could be better
+P1985,Portable Bluetooth Speaker,Audio,High performance and reliability for daily use,1232.57,True,8051,50,4.7,Not worth the price|Could be better|Great value for money
+P1986,Budget Smartphone,Mobile Phones,"Perfect for work, play, and everything in between",1862.84,False,3597,239,4.5,Amazing features|Battery lasts long|Highly recommend
+P1987,Network Switch,Networking,High performance and reliability for daily use,1533.39,True,6378,342,1.1,Great value for money|Not worth the price|Amazing features
+P1988,Mesh Wi-Fi System,Networking,High performance and reliability for daily use,950.63,False,5120,222,1.5,Would buy again|Amazing features|Battery lasts long
+P1989,External SSD 1TB,Computer Accessories,"Compact, stylish, and powerful",308.01,True,2120,59,2.2,Battery lasts long|Not worth the price|Poor customer service
+P1990,Mirrorless Camera,Cameras,"Compact, stylish, and powerful",84.86,True,753,6,2.4,Would buy again|Could be better|Very satisfied
+P1991,Air Purifier,Home Appliances,"Compact, stylish, and powerful",237.32,True,7186,257,3.8,Excellent quality|Not worth the price|Amazing features
+P1992,"Ultrabook 13""",Laptops,High performance and reliability for daily use,1213.52,False,8272,49,4.4,Could be better|Highly recommend|Very satisfied
+P1993,Mirrorless Camera,Cameras,High performance and reliability for daily use,670.61,False,794,484,4.3,Highly recommend|Great value for money|Excellent quality
+P1994,Gaming Laptop 16GB RAM,Laptops,Equipped with the latest technology,871.13,False,1707,442,3.5,Very satisfied|Poor customer service|Battery lasts long
+P1995,Smartwatch with GPS,Wearables,"Compact, stylish, and powerful",999.84,False,1061,37,1.4,Would buy again|Not worth the price|Highly recommend
+P1996,DSLR Camera,Cameras,"Perfect for work, play, and everything in between",371.49,True,2140,431,4.4,Great value for money|Poor customer service|Not worth the price
+P1997,Smart Glasses,Wearables,Equipped with the latest technology,1480.72,False,4116,401,1.2,Very satisfied|Great value for money|Highly recommend
+P1998,Fitness Tracker,Wearables,Equipped with the latest technology,1071.23,False,3346,296,4.1,Excellent quality|Battery lasts long|Amazing features
+P1999,"Business Laptop 15""",Laptops,"Compact, stylish, and powerful",1120.81,False,2094,259,1.5,Highly recommend|Poor customer service|Amazing features
