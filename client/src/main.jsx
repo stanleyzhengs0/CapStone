@@ -10,6 +10,8 @@ import ProductDetail from "./pages/ProductDetail";
 import "./index.css";
 import ProductList from "./pages/ProductList";
 import { CartProvider } from "./context/CartContext";
+import { ToastContainer } from 'react-toastify';
+import CategoryProducts from "./pages/CategoryProducts";
 
 const router = createBrowserRouter([
   {
@@ -20,6 +22,7 @@ const router = createBrowserRouter([
       { path: "/products", element: <ProductList/>},
       { path: "/cart", element: <CartPage /> },
       { path: "/product/:id", element: <ProductDetail /> },
+      { path: "/products/category/:category", element: <CategoryProducts/> },
     ],
   },
 ]);
@@ -28,6 +31,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <UserProvider>
       <CartProvider>
+        <ToastContainer />
         <RouterProvider router={router} />
       </CartProvider>
     </UserProvider> 

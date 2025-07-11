@@ -11,7 +11,7 @@ export const CartProvider = ({ children }) => {
 
   // Remove single item
   const removeFromCart = (productId) => {
-    setCart(prevCart => prevCart.filter(item => item.id !== productId));
+    setCart(prevCart => prevCart.filter(item => item._id !== productId));
   };
 
   // Empty the entire cart
