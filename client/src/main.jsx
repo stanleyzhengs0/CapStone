@@ -5,6 +5,10 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/Layout";           // wrapper with Header
 import Home from "./pages/Home";                    // hero + grid etc.
 import LoginSignup from "./pages/LoginSignup";      // new page
+import CartPage from "./pages/CartPage";
+import ProductDetail from "./pages/ProductDetail";
+
+
 
 import "./index.css";
 
@@ -14,6 +18,8 @@ const router = createBrowserRouter([
     children: [
       { path: "/", element: <Home /> },
       { path: "/auth", element: <LoginSignup /> },
+      { path: "/cart", element: <CartPage/>},
+      { path: "/product", element: <ProductDetail/>}
     ],
   },
 ]);
