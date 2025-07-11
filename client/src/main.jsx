@@ -8,9 +8,9 @@ import LoginSignup from "./pages/LoginSignup";      // new page
 import CartPage from "./pages/CartPage";
 import ProductDetail from "./pages/ProductDetail";
 
-
-
 import "./index.css";
+
+import { UserProvider } from "./context/UserContext";
 
 const router = createBrowserRouter([
   {
@@ -26,6 +26,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <UserProvider>
+      <RouterProvider router={router} />
+    </UserProvider> 
   </React.StrictMode>
 );
