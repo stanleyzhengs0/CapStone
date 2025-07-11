@@ -1,5 +1,6 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
+import { Link } from "react-router-dom"
 
 const Hero = () => {
   return (
@@ -25,20 +26,23 @@ const Hero = () => {
         </p>
 
 
-        <button
-          className="
-            inline-flex items-center space-x-3
-            bg-white text-black-500 px-8 py-4 rounded-full
-            font-medium text-lg
-            hover:bg-gray-800 transition-colors group
-          "
-        >
-          <span className = "font-display-text">Shop now</span>
+        <Link to='/products'>
+          <button
+            className="
+              inline-flex items-center space-x-3
+              bg-white text-black-500 px-8 py-4 rounded-full
+              font-medium text-lg
+              hover:bg-gray-800 transition-colors group
+            "
+          >
+            <span className = "font-display-text">Shop now</span>
 
-          <div className="w-6 h-6 bg-white rounded-full flex items-center justify-center">
-            <ArrowRight className="w-4 h-4 text-black group-hover:translate-x-0.5 transition-transform" />
-          </div>
-        </button>
+            <div className="w-6 h-6 bg-white rounded-full flex items-center justify-center">
+              <ArrowRight className="w-4 h-4 text-black group-hover:translate-x-0.5 transition-transform" />
+            </div>
+          </button>
+        </Link>
+        
         </div>       
      / </div>
     </section>

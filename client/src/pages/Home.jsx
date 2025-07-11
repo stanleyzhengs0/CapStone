@@ -11,7 +11,7 @@ const Home = () => {
         <Header />
         <SearchBar />
         <Hero />
-        <ProductGrid />
+        {/* <ProductGrid limit={4}/> */}
         <Quote /> 
         <Footer />
     </div>
