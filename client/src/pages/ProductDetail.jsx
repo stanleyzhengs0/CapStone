@@ -3,6 +3,7 @@ import { useParams, useLocation } from "react-router-dom";
 import { Star } from "lucide-react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import AccordionCard from "../components/AccordionCard";  
 
 export default function ProductDetail() {
   const { id } = useParams();
@@ -11,7 +12,7 @@ export default function ProductDetail() {
   const [product, setProduct] = useState(location.state?.product || null);
 
   useEffect(() => {
-    if (product) return;           
+    if (product) return;
     (async () => {
       try {
         const res = await fetch(` http://localhost:3000/api/v1/products/product?id=${id}`);
@@ -24,7 +25,7 @@ export default function ProductDetail() {
     })();
   }, [id, product]);
 
-  if (!product) return null;       
+  if (!product) return null;
 
   const {
     title,
@@ -79,19 +80,18 @@ export default function ProductDetail() {
 
           <p className="text-lg text-gray-300 max-w-prose">{description}</p>
 
+          {/* Review Accordion */}
           {reviewList.length > 0 && (
-            <div className="mt-8">
+            <div className="mt-8 space-y-4">
               <h2 className="text-xl mb-3 font-semibold">Reviews</h2>
-              <ul className="space-y-2 max-h-64 overflow-y-auto pr-2">
-                {reviewList.map((r, idx) => (
-                  <li
-                    key={idx}
-                    className="bg-white/10 p-4 rounded-lg backdrop-blur-sm"
-                  >
-                    {r}
-                  </li>
-                ))}
-              </ul>
+              {reviewList.map((r, idx) => (
+                <AccordionCard
+                  key={idx}
+                  title={`Review ${idx + 1}`}
+                >
+                  {r}
+                </AccordionCard>
+              ))}
             </div>
           )}
         </div>
