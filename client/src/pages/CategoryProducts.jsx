@@ -29,7 +29,7 @@ const CategoryProducts = () => {
     }
 
     fetchProducts();
-  }, [pageNumber]);
+  }, [pageNumber, category]);
 
   // Handle Next and Previous buttons
   const handleNextPage = () => {

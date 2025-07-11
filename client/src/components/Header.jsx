@@ -81,24 +81,24 @@ export default function Header() {
             >
               All Products
             </Link>
-            <a
-              href="#"
+            <Link
+              to="/products/category/TVs"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 2
-            </a>
-            <a
-              href="#"
+              TV's
+            </Link>
+            <Link
+              to="/products/category/Mobile Phones"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 3
-            </a>
-            <a
-              href="#"
+              Mobile Phones
+            </Link>
+            <Link
+              to="/products/category/Computer Accessories"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 4
-            </a>
+              Computer Accessories
+            </Link>
           </nav>
 
           <div className="flex items-center space-x-4">
@@ -108,9 +108,9 @@ export default function Header() {
 
             <Link to="/cart" className="relative p-2">
               <ShoppingCart className="w-5 h-5 text-white" />
-              <span className="absolute -top-1 -right-1 bg-black text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+              {/* <span className="absolute -top-1 -right-1 bg-black text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
                 2
-              </span>
+              </span> */}
             </Link>
           </div>
         </div>

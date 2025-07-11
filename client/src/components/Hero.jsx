@@ -22,7 +22,7 @@ const Hero = () => {
         </h1>
 
         <p className="font-display-light  text-white mt-0 mb-8 text-[1.25rem] max-w-prose	mx-auto">
-          Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Temp
+        Find the latest electronics at great prices. Whether you're looking for smartphones, laptops, or home gadgets, we've got you covered. Shop now for fast shipping, top-notch customer service, and exclusive online deals!
         </p>
 
 
