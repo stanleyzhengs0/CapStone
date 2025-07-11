@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { ShoppingCart, User, Menu, X} from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -38,13 +39,17 @@ const Header = () => {
             <button className="p-2 text-gray-700 hover:text-black transition-colors">
               <User className="w-5 h-5 text-white" />
             </button>
-            
-            <button className="p-2 text-gray-700 hover:text-black transition-colors relative">
-              <ShoppingCart className="w-5 h-5 text-white" />
-              <span className="absolute -top-1 -right-1 bg-black text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
-                2
-              </span>
-            </button>
+
+
+            <Link to="/cart">
+              <button className="p-2 text-gray-700 hover:text-black transition-colors relative">
+                <ShoppingCart className="w-5 h-5 text-white" />
+                <span className="absolute -top-1 -right-1 bg-black text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+                  2
+                </span>
+              </button>
+            </Link>
+          
           </div>
         </div>
       </div>
