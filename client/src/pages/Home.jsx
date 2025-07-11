@@ -1,16 +1,22 @@
-import React from "react";
-import Hero from "../components/Hero";
-import SearchBar from "../components/SearchBar";
-import ProductGrid from "../components/ProductGrid";
-import Footer from "../components/Footer";
+import Header from '../components/Header';
+import Hero from '../components/Hero';
+import ProductGrid from '../components/ProductGrid';
+import Quote from '../components/Quote';
+import Footer from '../components/Footer';
+import SearchBar from '../components/SearchBar';
 
-export default function Home() {
+const Home = () => {
   return (
-    <>
-      <SearchBar />
-      <Hero />
-      <ProductGrid />
-      <Footer/>
-    </>
-  );
+    <div className="min-h-screen bg-white">
+        <Header />
+        <SearchBar />
+        <Hero />
+        <ProductGrid />
+        <Quote /> 
+        <Footer />
+    </div>
+  )
 }
+
+export default Home
+
