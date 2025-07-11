@@ -1,11 +1,13 @@
-import React, { useState } from "react";
+import React, { useState, useEffect} from "react";
 import { Mail, X } from "lucide-react";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
+import { useUser } from "../context/UserContext";
 
 const API_URL = "http://localhost:3000/api/v1/auth";
 
 export default function LoginSignup() {
   const navigate = useNavigate();
+  const { user, setUser } = useUser();
   const [mode, setMode] = useState("signin");
   const [formOpen, setOpen] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -16,6 +18,11 @@ export default function LoginSignup() {
     email: "",
     password: "",
   });
+
+  useEffect(() => {
+    console.log("User state in LoginSignup:", user);
+  }, [user]);            // runs only when user changes
+  
 
   const openForm = (m) => {
     setMode(m);
@@ -48,7 +55,7 @@ export default function LoginSignup() {
       if (!res.ok) throw new Error(data.message || "Something went wrong");
 
       if (mode === "signin") {
-        setMessage("Welcome back! You're logged in.");
+        setUser(data.user);
         navigate("/");
       } else {
         setMessage("Account created — sign in with your new credentials.");
@@ -76,8 +83,7 @@ export default function LoginSignup() {
       </div>
       <div className="flex w-full md:w-1/2 items-center justify-center p-6 md:p-8">
         <div className="w-full max-w-md">
-          <div className="flex justify-center mb-6"></div>
-
+          <div className="flex justify-center mb-6" />
           <h2 className="text-center text-2xl font-display-header mb-8 capitalize">
             {mode === "signin" ? "Sign in" : "Create account"}
           </h2>
