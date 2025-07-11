@@ -6,6 +6,7 @@ import Footer from "../components/Footer";
 
 export default function ProductDetail() {
   const { id } = useParams();
+  console.log(id)
   const location = useLocation();
   const [product, setProduct] = useState(location.state?.product || null);
 
@@ -13,8 +14,9 @@ export default function ProductDetail() {
     if (product) return;           
     (async () => {
       try {
-        const res = await fetch(`http://localhost:3000/api/v1/products/${id}`);
+        const res = await fetch(` http://localhost:3000/api/v1/products/product?id=${id}`);
         const data = await res.json();
+        console.log(data)
         setProduct(data);
       } catch (err) {
         console.error("Failed to load product:", err);
