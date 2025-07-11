@@ -11,6 +11,8 @@ import ProductDetail from "./pages/ProductDetail";
 import "./index.css";
 
 import { UserProvider } from "./context/UserContext";
+import ProductList from "./pages/ProductList";
+import { CartProvider } from "./context/CartContext";
 
 const router = createBrowserRouter([
   {
@@ -19,7 +21,8 @@ const router = createBrowserRouter([
       { path: "/", element: <Home /> },
       { path: "/auth", element: <LoginSignup /> },
       { path: "/cart", element: <CartPage/>},
-      { path: "/product", element: <ProductDetail/>}
+      { path: "/product", element: <ProductDetail/>},
+      { path: "/products", element: <ProductList/>}
     ],
   },
 ]);
@@ -27,7 +30,9 @@ const router = createBrowserRouter([
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <UserProvider>
-      <RouterProvider router={router} />
+      <CartProvider>
+        <RouterProvider router={router} />
+      </CartProvider>
     </UserProvider> 
   </React.StrictMode>
 );
