@@ -1,12 +1,13 @@
 import React from "react";
-import Header from "./Header";
 import { Outlet } from "react-router-dom";
-import Footer from "./Footer";
+import ScrollToTop from "../helper/ScrollToTop";
+
 
 export default function Layout() {
   return (
     <>
-      <Outlet />            
+      <Outlet />
+      <ScrollToTop />         
     </>
   );
 }

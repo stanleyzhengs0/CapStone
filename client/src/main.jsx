@@ -1,16 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-
-import Layout from "./components/Layout";           // wrapper with Header
-import Home from "./pages/Home";                    // hero + grid etc.
-import LoginSignup from "./pages/LoginSignup";      // new page
+import { UserProvider } from "./context/UserContext";
+import Layout from "./components/Layout";
+import Home from "./pages/Home";
+import LoginSignup from "./pages/LoginSignup";
 import CartPage from "./pages/CartPage";
 import ProductDetail from "./pages/ProductDetail";
-
 import "./index.css";
-
-import { UserProvider } from "./context/UserContext";
 import ProductList from "./pages/ProductList";
 import { CartProvider } from "./context/CartContext";
 
@@ -20,9 +17,9 @@ const router = createBrowserRouter([
     children: [
       { path: "/", element: <Home /> },
       { path: "/auth", element: <LoginSignup /> },
-      { path: "/cart", element: <CartPage/>},
-      { path: "/product", element: <ProductDetail/>},
       { path: "/products", element: <ProductList/>}
+      { path: "/cart", element: <CartPage /> },
+      { path: "/product/:id", element: <ProductDetail /> },
     ],
   },
 ]);
