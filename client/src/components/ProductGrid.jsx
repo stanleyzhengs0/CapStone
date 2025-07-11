@@ -1,3 +1,4 @@
+// ProductGrid.jsx
 import React, { useEffect, useState } from "react";
 import ProductCard from "./ProductCard";
 
@@ -15,14 +16,12 @@ export default function ProductGrid() {
         );
 
         const payloads = await Promise.all(responses.map((r) => r.json()));
-
-        const merged = payloads.flat();
-        setProducts(merged);
+        setProducts(payloads.flat());
       } catch (err) {
         console.error("Failed to load products:", err);
       }
     })();
-  }, []); 
+  }, []);
 
   return (
     <section className="py-20 bg-black">
@@ -30,11 +29,13 @@ export default function ProductGrid() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {products.map((p) => (
             <ProductCard
-              key={p.id}
+              key={p._id}
+              id={p._id}
               title={p.title}
               price={p.price}
               image={p.image || "https://placehold.co/600x800?text=Image"}
               category={p.category}
+              product={p}
             />
           ))}
         </div>

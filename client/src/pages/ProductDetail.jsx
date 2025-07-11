@@ -1,54 +1,101 @@
-import { Link } from "react-router-dom";
+import React, { useEffect, useState } from "react";
+import { useParams, useLocation } from "react-router-dom";
+import { Star } from "lucide-react";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
-const ProductDetail = () => {
+export default function ProductDetail() {
+  const { id } = useParams();
+  const location = useLocation();
+  const [product, setProduct] = useState(location.state?.product || null);
+
+  useEffect(() => {
+    if (product) return;           
+    (async () => {
+      try {
+        const res = await fetch(`http://localhost:3000/api/v1/products/${id}`);
+        const data = await res.json();
+        setProduct(data);
+      } catch (err) {
+        console.error("Failed to load product:", err);
+      }
+    })();
+  }, [id, product]);
+
+  if (!product) return null;       
+
+  const {
+    title,
+    price,
+    description,
+    category,
+    image,
+    number_of_reviews,
+    average_rating,
+    reviews,
+  } = product;
+
+  const reviewList = reviews ? reviews.split("|") : [];
+  const stars = Array.from({ length: 5 }, (_, i) => i < average_rating);
+
   return (
-    <div className="flex flex-col gap-16 flex-wrap px-6 md:px-20 py-24">
-      <div className="flex gap-28 xl:flex-row flex-col">
-        <div className="flex-grow xl:max-w-[50%] max-w-full py-16 border border-[#CDDBFF] rounded-[17px]">Image</div>
+    <>
+      <Header />
 
-        <div className="flex-1 flex flex-col">
-          <div className="flex justify-between items-start gap-5 flex-wrap pb-6">
-            <div className="flex flex-col gap-3">
-              <p className="text-[28px] text-secondary font-semibold">
-                product.title
-              </p>
-            </div>
-          </div>
-
-          <div className="flex items-center flex-wrap gap-10 py-6 border-y border-y-[#E4E4E4]">
-            <div className="flex flex-col gap-2">
-              <p className="text-[34px] text-secondary font-bold">
-                {/* {product.currency} {formatNumber(product.currentPrice)} */}
-                curency
-              </p>
-            </div>
-
-            <div className="flex flex-col gap-4">
-              <div className="flex gap-3">
-                <button className="btn w-fit mx-auto flex items-center justify-center gap-3 min-w-[200px]">
-                  <Link target="_blank" className="text-base text-whtie">
-                    Add to Cart
-                  </Link>
-                </button>
-              </div>
-            </div>
-          </div>
-
-    
-
-          <div className="my-7 flex flex-col gap-16">
-            <div className="flex flex-col gap-5">
-              <h3 className="text-2xl text-secondary font-semibold">
-                Product Description
-              </h3>
-
-              <div className="flex flex-col gap-4">dec</div>
-            </div>
-          </div>
+      <section className="min-h-screen bg-black text-white flex flex-col lg:flex-row">
+        <div className="lg:w-1/2">
+          <img
+            src={image}
+            alt={title}
+            className="w-full h-[60vh] lg:h-full object-cover opacity-70"
+          />
         </div>
-      </div>
-    </div>
-  );
-};
 
-export default ProductDetail;
+        <div className="lg:w-1/2 p-8 flex flex-col gap-6">
+          <span className="inline-block self-start rounded-full border border-pink-500/70 bg-pink-800/40 px-4 py-1 text-sm font-medium backdrop-blur-sm">
+            {category}
+          </span>
+
+          <h1 className="text-4xl font-display-header leading-tight">{title}</h1>
+          <p className="text-2xl font-display-text">${price.toFixed(2)}</p>
+
+          <div className="flex items-center gap-2">
+            {stars.map((filled, idx) => (
+              <Star
+                key={idx}
+                className={`w-5 h-5 ${
+                  filled
+                    ? "fill-yellow-400 stroke-yellow-400"
+                    : "stroke-gray-600"
+                }`}
+              />
+            ))}
+            <span className="text-sm text-gray-400">
+              ({number_of_reviews})
+            </span>
+          </div>
+
+          <p className="text-lg text-gray-300 max-w-prose">{description}</p>
+
+          {reviewList.length > 0 && (
+            <div className="mt-8">
+              <h2 className="text-xl mb-3 font-semibold">Reviews</h2>
+              <ul className="space-y-2 max-h-64 overflow-y-auto pr-2">
+                {reviewList.map((r, idx) => (
+                  <li
+                    key={idx}
+                    className="bg-white/10 p-4 rounded-lg backdrop-blur-sm"
+                  >
+                    {r}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      </section>
+
+      <Footer />
+    </>
+  );
+}
