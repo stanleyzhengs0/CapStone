@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { ShoppingCart, User, Menu, X} from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom"
+
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -37,7 +38,9 @@ const Header = () => {
 
           <div className="flex items-center space-x-4">            
             <button className="p-2 text-gray-700 hover:text-black transition-colors">
+              <Link to ="/auth">
               <User className="w-5 h-5 text-white" />
+              </Link>
             </button>
 
 
