@@ -63,7 +63,7 @@ export default function Header() {
                   {categories.map((c) => (
                     <li key={c}>
                       <Link
-                        to={`/category/${c.toLowerCase().replace(/\\s+/g, "-")}`}
+                        to={`/products/category/${c}`}
                         className="block px-5 py-2 text-sm text-white/80 hover:bg-white/10 hover:text-white transition-colors"
                       >
                         {c}
@@ -75,12 +75,12 @@ export default function Header() {
             </div>
 
             {/* placeholder links */}
-            <a
-              href="#"
+            <Link
+              to="/products"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"
             >
-              Category 1
-            </a>
+              All Products
+            </Link>
             <a
               href="#"
               className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200"

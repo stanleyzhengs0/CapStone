@@ -1,15 +1,17 @@
 import ProductListCard from '../components/CartProductCard';
+import Header from '../components/Header';
 import { useCart } from '../context/CartContext';
 
 function CartPage() {
   const { cart, removeFromCart, clearCart } = useCart();
-  // const totalPrice = cart.reduce((sum, item) => sum + item.price, 0);
-  const subtotal = 12;
+  const totalPrice = cart.reduce((sum, item) => sum + item.price, 0);
+  const subtotal = totalPrice;
   const taxRate = 0.07; // example 7% tax
   const tax = subtotal * taxRate;
   const total = subtotal + tax;
   return (
     <div className="bg-black text-gray-200">
+      <Header/>
       <div className="min-h-screen max-w-6xl mx-auto p-6 grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Left: Cart Items */}
         <div className="md:col-span-2 md:pr-8 md:border-r md:border-gray-700">
@@ -20,17 +22,19 @@ function CartPage() {
           ) : (
             <>
               {cart.map((item, idx) => (
+                
                 <div
                   key={idx}
                   className="flex justify-between items-center border-b border-gray-700 py-4"
                 >
                   <div>
-                    <p className="font-semibold text-white">{item.name}</p>
+                    <p className="font-semibold text-white">{item.title}</p>
+                    <p className="font-semibold text-white">{item.category}</p>
                     <p className="text-gray-400">${item.price.toFixed(2)}</p>
                   </div>
                   <button
                     className="text-red-500 hover:text-red-400"
-                    onClick={() => removeFromCart(item.id)}
+                    onClick={() => removeFromCart(item._id)}
                   >
                     Remove
                   </button>

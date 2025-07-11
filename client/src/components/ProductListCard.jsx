@@ -1,7 +1,17 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import { useCart } from '../context/CartContext';
+import { toast } from 'react-toastify';
 
 const ProductListCard = ({ id, title, category, description, price, number_of_reviews, average_rating }) => {
+
+  
+  // const { addToCart } = useCartCart();
+
+  // const handleAddToCart = () => {
+  //   addToCart(product); // Adds the product to the cart
+  //   toast.success(`Successfully added!`);
+  // };
   return (
     <div className="bg-white border rounded-lg shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden">
       <div className="p-4">
@@ -20,8 +30,13 @@ const ProductListCard = ({ id, title, category, description, price, number_of_re
          <button className="px-4 py-2 text-sm text-white bg-black rounded-full hover:bg-gray-800 transition">
           View Details
         </button>   
-
       </Link>
+
+          {/* <buttom
+            onClick={handleAddToCart}
+          >
+            Add to Cart
+          </buttom> */}
         
       </div>
     </div>
