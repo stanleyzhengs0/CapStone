@@ -1,6 +1,10 @@
+import { Link } from 'react-router-dom';
 import ProductListCard from '../components/CartProductCard';
 import Header from '../components/Header';
 import { useCart } from '../context/CartContext';
+
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function CartPage() {
   const { cart, removeFromCart, clearCart } = useCart();
@@ -9,6 +13,12 @@ function CartPage() {
   const taxRate = 0.07; // example 7% tax
   const tax = subtotal * taxRate;
   const total = subtotal + tax;
+
+  const handleSubmitOrder = () => {
+    toast.success(`Order Placed!`);
+  };
+
+
   return (
     <div className="bg-black text-gray-200">
       <Header/>
@@ -21,14 +31,15 @@ function CartPage() {
             <p className="text-gray-400">Your cart is empty.</p>
           ) : (
             <>
-              {cart.map((item, idx) => (
-                
+              {cart.map((item) => (
                 <div
-                  key={idx}
+                  key={item._id}
                   className="flex justify-between items-center border-b border-gray-700 py-4"
                 >
                   <div>
-                    <p className="font-semibold text-white">{item.title}</p>
+                    <Link to={`/product/${item._id}`}>
+                      <p className="font-semibold text-white hover:text-yellow-400 hover:underline">{item.title}</p>
+                    </Link>
                     <p className="font-semibold text-white">{item.category}</p>
                     <p className="text-gray-400">${item.price.toFixed(2)}</p>
                   </div>
@@ -72,7 +83,7 @@ function CartPage() {
 
           <button
             className="bg-blue-700 text-white w-full py-2 mt-6 rounded hover:bg-blue-600"
-            onClick={() => alert('Proceed to checkout')}
+            onClick={() => {handleSubmitOrder(); clearCart();}}
           >
             Checkout
           </button>
