@@ -13,7 +13,7 @@ export default function AccordionCard({ title, children, defaultOpen = false }) 
   return (
     <div
       className={`rounded-2xl border-1 transition-all duration-300
-        ${open ? "border-pink-500 bg-pink-800/10" : "border-gray-300 bg-black/5"}
+        ${open ? "border-pink-500 bg-pink-800/10" : "border border-white/10"}
       `}
     >
       <button

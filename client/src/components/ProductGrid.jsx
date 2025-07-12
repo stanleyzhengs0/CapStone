@@ -1,4 +1,4 @@
-// ProductGrid.jsx
+
 import React, { useEffect, useState } from "react";
 import ProductCard from "./ProductCard";
 
