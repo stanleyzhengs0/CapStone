@@ -9,7 +9,7 @@ const Hero = () => {
     bg-black
     bg-[length:100%_100%]
     bg-no-repeat
-    py-24 lg:py-12
+    py-24 lg:py-1
     "
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
@@ -17,7 +17,7 @@ const Hero = () => {
         {/*<h1 className="font-display-header text-[8rem] leading-none text-red-500 mb-0">
           Travelers
         </h1> */}
-        <h1 className="font-display-header text-[8rem] leading-none text-white">
+        <h1 className="font-display-header text-[6rem] leading-none text-white mb-3">
           Trail<span className="text-red-500">blazers.</span>
         </h1>
 

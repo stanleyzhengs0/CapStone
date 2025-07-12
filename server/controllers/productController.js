@@ -17,44 +17,50 @@ export const getProducts = async (req, res) => {
 }
 
 export const getPaginatedProducts = async (req, res) => {
-    try {
-      const { page, limit } = req.query;
-  
-      if (!page) throw new Error("Page parameter is required");
-  
-      const pageNumber = parseInt(page);
-      const limitNumber = parseInt(limit);
-      const nextPage = (pageNumber - 1) * limitNumber;
-  
-      // Fetch paginated products
-      const products = await productCollection
-        .find({})
-        .skip(nextPage)
-        .limit(limitNumber)
-        .toArray();
-  
-      // Get the total count of products to determine pagination info
-      const totalCount = await productCollection.countDocuments();
-  
-      // Calculate if there are more pages
-      const totalPages = Math.ceil(totalCount / limitNumber);
-      const hasMore = pageNumber < totalPages;
-  
-      // Return products with pagination info
-      res.status(200).json({
-        products,
-        totalCount,
-        totalPages,
-        hasMore, // Whether there are more products to load
-      });
-      
-    } catch (error) {
-      return res.status(500).json({
-        message: "Error fetching PAGINATED products: ",
-        Error: error.message,
-      });
+  try {
+    const { page, limit, category } = req.query;
+
+    if (!page) {
+      return res.status(400).json({ message: "Page parameter is required" });
     }
-  };
+
+    const pageNumber  = parseInt(page,  10);
+    const limitNumber = parseInt(limit, 10) || 20;
+    const skipCount   = (pageNumber - 1) * limitNumber;
+
+    // Build filter: if category is passed, only match that category
+    const filter = {};
+    if (category) {
+      filter.category = category;
+    }
+
+    // Count matching documents
+    const totalCount = await productCollection.countDocuments(filter);
+    const totalPages = Math.ceil(totalCount / limitNumber);
+    const hasMore    = pageNumber < totalPages;
+
+    // Fetch the page
+    const products = await productCollection
+      .find(filter)
+      .skip(skipCount)
+      .limit(limitNumber)
+      .toArray();
+
+    return res.status(200).json({
+      products,
+      totalCount,
+      totalPages,
+      hasMore,
+    });
+  } catch (error) {
+    console.error("Error fetching paginated products:", error);
+    return res.status(500).json({
+      message: "Error fetching paginated products",
+      error:   error.message,
+    });
+  }
+};
+
   
 
 export const getProductDetail = async (req, res) => {

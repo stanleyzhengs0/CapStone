@@ -1,74 +1,62 @@
 import React, { useState } from "react";
 import { Search } from "lucide-react";
+import "../styles/glass-search.css";   // adjust path if needed
 
 export default function SearchBar() {
-  const [query, setQuery] = useState(""); // User input
-  const [results, setResults] = useState([]); // Search results
+  const [query, setQuery]     = useState("");
+  const [results, setResults] = useState([]);
 
-  // Function to fetch search results from API
-  const fetchSearchResults = async (query) => {
-    if (!query) return;
-
+  async function fetchSearchResults(q) {
+    if (!q.trim()) return;
     try {
-      const response = await fetch(`http://localhost:3000/api/v1/products/search?input=${query}`);
-      const data = await response.json();
-      
-      if (data && data.products) {
-        setResults(data.products); // Update results with fetched products
-      } else {
-        setResults([]); // Clear results if no data or products are found
-      }
-    } catch (error) {
-      console.error("Error fetching search results:", error);
+      const r   = await fetch(`http://localhost:3000/api/v1/products/search?input=${q}`);
+      const dat = await r.json();
+      setResults(dat?.products || []);
+    } catch (err) {
+      console.error("search error:", err);
       setResults([]);
     }
-  };
+  }
 
-  // Fetch results on every keypress
-  const handleQueryChange = (e) => {
-    const value = e.target.value;
-    setQuery(value); // Update the query state
-
-    if (value.trim().length >= 3) {
-      fetchSearchResults(value); // Fetch results if query length >= 3
-    } else {
-      setResults([]); // Clear results if query is shorter than 3 characters
-    }
-  };
+  function handleQueryChange(e) {
+    const v = e.target.value;
+    setQuery(v);
+    v.trim().length >= 3 ? fetchSearchResults(v) : setResults([]);
+  }
 
   return (
-    <div className="w-full bg-black">
-      <div className="max-w-7xl mx-auto px-6 lg:px-8 py-8">
+    <div style={{ background: "black" }}>
+      <div style={{ maxWidth: "56rem", margin: "0 auto", padding: "2rem 1.5rem" }}>
+        {/* glass search bar */}
         <form
-          className="glass w-full max-w-3xl mx-auto flex items-center gap-3 px-6 py-4 text-white focus-within:ring-2 focus-within:ring-pink-500 transition-shadow"
-          onSubmit={(e) => e.preventDefault()} // Prevent form submission
+          className="search-glass"
+          onSubmit={(e) => e.preventDefault()}
         >
-          <Search className="h-5 w-5 shrink-0 text-white/70" />
+          <Search size={20} />
 
           <input
-            name="query"
             type="text"
-            placeholder="Search products…"
+            placeholder="Search"
             value={query}
-            onChange={handleQueryChange} // Capture user input and fetch results
-            className="flex-1 bg-transparent outline-none placeholder:text-white/60 text-white font-medium"
+            onChange={handleQueryChange}
           />
         </form>
 
-        {/* Display autocomplete results */}
+        {/* autocomplete list */}
         {query.trim().length >= 3 && (
-          <div className="mt-4 bg-gray-600 bg-opacity-75 rounded-lg p-4 max-h-64 overflow-y-auto w-full max-w-3xl mx-auto">
-            <ul>
-              {results.length > 0 ? (
-                results.map((result) => (
-                  <li key={result._id} className="py-2 cursor-pointer hover:bg-gray-700">
-                    <a href={`/products/${result._id}`} className="text-white">
-                      {result.title}
-                    </a>
+          <div
+            className="search-results"
+            style={{ maxWidth: "48rem", margin: "1rem auto 0" }}
+          >
+            <ul style={{ margin: 0, padding: 0, listStyle: "none" }}>
+              {results.length ? (
+                results.map((p) => (
+                  <li key={p._id}>
+                    <a href={`/products/${p._id}`}>{p.title}</a>
                   </li>
                 ))
               ) : (
-                <li className="text-gray-500">No results found</li>
+                <li style={{ color: "#9ca3af" }}>No results found</li>
               )}
             </ul>
           </div>
