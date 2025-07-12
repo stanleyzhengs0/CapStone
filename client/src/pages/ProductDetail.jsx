@@ -159,7 +159,7 @@ export default function ProductDetail() {
         <h2 className="text-xl font-display-semi mb-6">About this product</h2>
 
         <div className="flex flex-col md:flex-row">
-          <div className="flex-1 space-y-4 md:pr-6">
+          <div className="flex-1 space-y-4 md:pr-6 font-display-text">
             {[
               "Product details",
               "Specifications",
@@ -178,7 +178,7 @@ export default function ProductDetail() {
           <div className="my-8 md:my-0 md:mx-6 h-0.5 bg-pink-600 md:h-auto md:w-1" />
 
           {reviewList.length > 0 && (
-            <div className="flex-1">
+            <div className="flex-1 font-display-text">
               <AccordionCard title="Reviews">
                 <div className="space-y-4">
                   {reviewList.map((r, idx) => (
