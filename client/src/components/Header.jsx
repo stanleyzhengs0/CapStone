@@ -1,5 +1,4 @@
-// src/components/Header.jsx
-import React, { useState } from "react";
+import React from "react";
 import { ShoppingCart, User } from "lucide-react";
 import { Link } from "react-router-dom";
 import { useUser } from "../context/UserContext";
@@ -18,7 +17,6 @@ const categories = [
 ];
 
 export default function Header() {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const { user } = useUser();
 
   return (
@@ -30,10 +28,14 @@ export default function Header() {
             <div className="w-8 h-8 bg-black rounded-lg flex items-center justify-center">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="24" height="24"
+                width="24"
+                height="24"
                 viewBox="0 0 24 24"
-                fill="none" stroke="#ffffff" strokeWidth="2"
-                strokeLinecap="round" strokeLinejoin="round"
+                fill="none"
+                stroke="#ffffff"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
               >
                 <path d="M22 12a10.06 10.06 1 0 0-20 0Z" />
                 <path d="M12 12v8a2 2 0 0 0 4 0" />
@@ -45,20 +47,17 @@ export default function Header() {
           {/* Navigation */}
           <nav className="hidden md:flex items-center space-x-4">
             {/* Departments dropdown */}
-            <div
-              className="relative group"
-              onMouseEnter={() => setIsMenuOpen(true)}
-              onMouseLeave={() => setIsMenuOpen(false)}
-            >
+            <div className="relative group">
               <button className="font-display-medium px-6 py-2.5 text-[#ffffffb3] hover:text-black hover:bg-white/50 rounded-full transition-all duration-200">
                 Departments
               </button>
               <div
-                className={`absolute left-0 mt-2 w-56 bg-black/90 backdrop-blur-md border border-white/10 rounded-2xl transition-all duration-200 ${
-                  isMenuOpen
-                    ? "opacity-100 translate-y-0 pointer-events-auto"
-                    : "opacity-0 -translate-y-2 pointer-events-none"
-                }`}
+                className="
+                  absolute left-0 mt-2 w-56 bg-black/90 backdrop-blur-md border border-white/10 rounded-2xl
+                  opacity-0 -translate-y-2 pointer-events-none
+                  transition-all duration-200
+                  group-hover:opacity-100 group-hover:translate-y-0 group-hover:pointer-events-auto
+                "
               >
                 <ul className="py-3">
                   {categories.map((c) => (

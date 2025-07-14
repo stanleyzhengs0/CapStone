@@ -19,7 +19,8 @@ export default function ProductDetail() {
   const { addToCart } = useCart();
 
   useEffect(() => {
-    if (product) return;
+    if (!id) return;
+    setProduct(null); // clear previous product before loading new one
     (async () => {
       try {
         const r = await fetch(
@@ -30,7 +31,8 @@ export default function ProductDetail() {
         console.error("Failed to load product:", e);
       }
     })();
-  }, [id, product]);
+  }, [id]);
+  
 
   useEffect(() => {
     if (!id) return;
